@@ -1,0 +1,7 @@
+# Windows dependencies: project metadata and direct imports.
+ipykernel
+pandas
+pandas<3
+pandas>=2.0
+pybaseball
+pybaseball>=2.2

@@ -1,0 +1,636 @@
+,runner_id,game_date,event_type,from_base,trigger_row,trigger_des,reach_event,reach_event_row
+0,668901,2025-09-28,steal_2b,on_1b,815,Jeff McNeil called out on strikes. Mark Vientos steals (1) 2nd base.,walk,818
+1,671286,2025-09-28,steal_2b,on_1b,1078,Gabriel Arias strikes out swinging. Johnathan Rodríguez to 2nd. José Ramírez steals (43) 3rd base. Johnathan Rodríguez steals (1) 2nd base.,walk,1087
+2,608070,2025-09-28,steal_3b,on_2b,1078,Gabriel Arias strikes out swinging. Johnathan Rodríguez to 2nd. José Ramírez steals (43) 3rd base. Johnathan Rodríguez steals (1) 2nd base.,single,1093
+3,808982,2025-09-28,caught_steal_2b,on_1b,3738,"Patrick Bailey called out on strikes and Jung Hoo Lee caught stealing 2nd, catcher Hunter Goodman to shortstop Ezequiel Tovar to catcher Hunter Goodman.",single,3743
+4,689200,2025-09-28,caught_steal_2b,on_1b,4291,"Jacob Melton caught stealing 2nd base, catcher Sebastián Rivero to shortstop Denzer Guzman.",single,4294
+5,664238,2025-09-27,caught_steal_home,on_3b,6219,"Dylan Moore caught stealing home, catcher Austin Hedges to second baseman Brayan Rocchio to catcher Austin Hedges.",single,6229
+6,682829,2025-09-26,steal_2b,on_1b,11159,Spencer Steer strikes out swinging. Elly De La Cruz steals (37) 2nd base.,single,11163
+7,650859,2025-09-26,caught_steal_2b,on_1b,11707,"Luis Rengifo caught stealing 2nd base, catcher Yainer Diaz to second baseman Jose Altuve.",single,11710
+8,683002,2025-09-25,caught_steal_3b,on_2b,13440,"Orioles challenged (tag play), call on the field was upheld: Gunnar Henderson caught stealing 3rd base, catcher Nick Fortes to third baseman Junior Caminero.",single,13444
+9,805300,2025-09-25,caught_steal_2b,on_1b,14230,"Marlins challenged (tag play), call on the field was upheld: Agustín Ramírez called out on strikes and Jakob Marsee caught stealing 2nd, catcher J.T. Realmuto to second baseman Bryson Stott to catcher J.T. Realmuto.",walk,14238
+10,696030,2025-09-25,caught_steal_2b,on_1b,15519,"Kyle Higashioka strikes out swinging and Alejandro Osuna caught stealing 2nd, catcher Christian Vázquez to second baseman Kody Clemens to catcher Christian Vázquez.",single,15529
+11,805904,2025-09-25,steal_3b,on_2b,15937,Mauricio Dubón walks. Zach Cole to 3rd. Zach Cole steals (1) 3rd base. Zach Cole to 3rd.,double,15948
+12,686681,2025-09-25,steal_2b,on_1b,16448,Maikel Garcia strikes out swinging. Michael Massey steals (2) 2nd base.,single,16454
+13,650333,2025-09-24,caught_steal_2b,on_1b,19113,"Jackson Merrill strikes out swinging and Luis Arraez caught stealing 2nd, catcher Danny Jansen to shortstop Andruw Monasterio to catcher Danny Jansen.",walk,19124
+14,677942,2025-09-24,steal_3b,on_2b,20513,Tim Tawa strikes out swinging. Blaze Alexander steals (4) 3rd base.,single,20522
+15,666397,2025-09-24,caught_steal_2b,on_1b,20766,"Edouard Julien caught stealing 2nd base, catcher Jonah Heim to shortstop Josh Smith.",single,20772
+16,696285,2025-09-23,caught_steal_2b,on_1b,21640,"Jacob Young caught stealing 2nd base, catcher Drake Baldwin to shortstop Ha-Seong Kim.",single,21643
+17,664056,2025-09-23,caught_steal_2b,on_1b,22727,"Kyle Schwarber strikes out swinging and Harrison Bader caught stealing 2nd, catcher Liam Hicks to shortstop Otto Lopez to catcher Liam Hicks.",single,22733
+18,687363,2025-09-23,caught_steal_2b,on_1b,23966,"Giants challenged (tag play), call on the field was overturned: Victor Scott II caught stealing 2nd base, catcher Patrick Bailey to shortstop Willy Adames.",walk,23967
+19,663538,2025-09-23,steal_2b,on_1b,24679,Ian Happ called out on strikes. Nico Hoerner steals (29) 2nd base.,single,24685
+20,691781,2025-09-21,caught_steal_2b,on_1b,27407,"Brady House caught stealing 2nd base, catcher Luis Torrens to shortstop Francisco Lindor.",force_out,27411
+21,802415,2025-09-21,steal_2b,on_1b,27640,Yandy Díaz strikes out swinging. Chandler Simpson steals (43) 2nd base.,single,27643
+22,621035,2025-09-21,caught_steal_2b,on_1b,28450,"Mike Trout strikes out swinging and Chris Taylor caught stealing 2nd, catcher Braxton Fulford to second baseman Ryan Ritter to catcher Braxton Fulford.",field_out,41081
+23,690022,2025-09-21,caught_steal_2b,on_1b,28525,"Ryan Ritter caught stealing 2nd base, catcher Logan O'Hoppe to second baseman Christian Moore.",single,28528
+24,665489,2025-09-21,caught_steal_2b,on_1b,29310,"Vladimir Guerrero Jr. caught stealing 2nd base, catcher Carter Jensen to shortstop Bobby Witt Jr.",single,29314
+25,641355,2025-09-20,steal_2b,on_1b,31306,Giancarlo Stanton strikes out swinging. Cody Bellinger steals (13) 2nd base.,walk,31309
+26,686611,2025-09-20,caught_steal_2b,on_1b,31810,"Dylan Crews caught stealing 2nd base, catcher Francisco Alvarez to shortstop Francisco Lindor.",walk,31823
+27,676812,2025-09-20,caught_steal_2b,on_1b,34274,"Carson McCusker caught stealing 2nd base, catcher Austin Hedges to shortstop Gabriel Arias.",single,34277
+28,543309,2025-09-20,caught_steal_2b,on_1b,34434,"Josh Smith strikes out swinging and Kyle Higashioka caught stealing 2nd, catcher Agustín Ramírez to shortstop Otto Lopez to catcher Agustín Ramírez.",walk,34440
+29,680977,2025-09-19,caught_steal_home,on_3b,36550,"Nolan Arenado strikes out swinging and Brendan Donovan caught stealing home, catcher William Contreras to second baseman Brice Turang to catcher William Contreras.",double,36559
+30,669369,2025-09-19,caught_steal_2b,on_1b,36702,"Fernando Tatis Jr. strikes out swinging and Bryce Johnson caught stealing 2nd, catcher Kyle Teel to second baseman Chase Meidroth to catcher Kyle Teel.",home_run,61154
+31,645302,2025-09-19,caught_steal_2b,on_1b,37369,"Victor Robles caught stealing 2nd base, catcher Yainer Diaz to shortstop Jeremy Peña.",hit_by_pitch,37370
+32,642215,2025-09-19,caught_steal_2b,on_1b,38878,"Diamondbacks challenged (tag play), call on the field was overturned: Weston Wilson caught stealing 2nd base, catcher Gabriel Moreno to shortstop Geraldo Perdomo.",single,38879
+33,669016,2025-09-19,steal_2b,on_1b,38883,Nick Castellanos called out on strikes. Brandon Marsh steals (6) 2nd base.,single,38896
+34,677942,2025-09-19,caught_steal_2b,on_1b,39034,"Blaze Alexander caught stealing 2nd base, catcher J.T. Realmuto to shortstop Bryson Stott.",force_out,39035
+35,606115,2025-09-19,caught_steal_2b,on_1b,39114,"Brenton Doyle called out on strikes and Orlando Arcia caught stealing 2nd, catcher Logan O'Hoppe to second baseman Christian Moore to catcher Logan O'Hoppe.",strikeout,46949
+36,678009,2025-09-18,steal_2b,on_1b,40911,Gleyber Torres called out on strikes. Parker Meadows steals (4) 2nd base.,walk,40918
+37,665861,2025-09-18,steal_2b,on_1b,41153,Denzer Guzman strikes out swinging. Sebastián Rivero to 2nd. Christian Moore steals (1) 3rd base. Sebastián Rivero steals (1) 2nd base.,single,41157
+38,695681,2025-09-18,steal_3b,on_2b,41153,Denzer Guzman strikes out swinging. Sebastián Rivero to 2nd. Christian Moore steals (1) 3rd base. Sebastián Rivero steals (1) 2nd base.,double,41158
+39,596115,2025-09-17,caught_steal_2b,on_1b,42522,"Trevor Story caught stealing 2nd base, catcher Shea Langeliers to second baseman Zack Gelof.",single,42524
+40,683227,2025-09-17,caught_steal_2b,on_1b,43370,"Cody Freeman caught stealing 2nd base, catcher Yainer Diaz to shortstop Jeremy Peña.",single,43371
+41,663538,2025-09-16,caught_steal_home,on_3b,47704,"Nico Hoerner caught stealing home, catcher Henry Davis to second baseman Nick Yorke to catcher Henry Davis to third baseman Jared Triolo.",single,47717
+42,802415,2025-09-16,steal_2b,on_1b,48648,Yandy Díaz strikes out swinging. Chandler Simpson to 3rd. Chandler Simpson steals (42) 2nd base. Chandler Simpson to 3rd. Throwing error by catcher Alejandro Kirk.,walk,48655
+43,683227,2025-09-16,steal_2b,on_1b,50143,Josh Smith called out on strikes. Cody Freeman steals (1) 2nd base.,walk,50150
+44,642215,2025-09-16,caught_steal_2b,on_1b,50869,"Dodgers challenged (tag play), call on the field was overturned: Weston Wilson caught stealing 2nd base, catcher Ben Rortvedt to shortstop Mookie Betts.",walk,50872
+45,805300,2025-09-16,caught_steal_2b,on_1b,51632,"Jakob Marsee caught stealing 2nd base, catcher Hunter Goodman to second baseman Ryan Ritter.",force_out,51633
+46,807712,2025-09-15,caught_steal_2b,on_1b,53478,"Yankees challenged (tag play), call on the field was overturned: Matt Wallner strikes out swinging and Luke Keaschall caught stealing 2nd, catcher Austin Wells to shortstop José Caballero to catcher Austin Wells.",strikeout,53488
+47,665877,2025-09-14,caught_steal_home,on_3b,56882,"Lars Nootbaar walks. Nathan Church to 3rd. José Fermín caught stealing home, catcher Danny Jansen to third baseman Caleb Durbin to catcher Danny Jansen to third baseman Caleb Durbin. Nathan Church to 3rd.",single,56901
+48,677950,2025-09-14,steal_2b,on_1b,57439,James McCann strikes out swinging. Alek Thomas steals (7) 2nd base.,single,57442
+49,695734,2025-09-14,caught_steal_2b,on_1b,58690,"Daylen Lile caught stealing 2nd base, catcher Joey Bart to second baseman Nick Yorke.",single,58692
+50,660844,2025-09-14,steal_2b,on_1b,59031,J.P. Crawford strikes out swinging. Leo Rivas steals (5) 2nd base.,walk,59037
+51,691185,2025-09-13,caught_steal_2b,on_1b,59759,"Victor Mesa Jr. strikes out swinging and Maximo Acosta caught stealing 2nd, catcher Dillon Dingler to shortstop Zach McKinstry to catcher Dillon Dingler.",single,59765
+52,670541,2025-09-13,caught_steal_2b,on_1b,59995,"Yordan Alvarez caught stealing 2nd base, catcher Drake Baldwin to second baseman Ozzie Albies.",walk,59997
+53,702616,2025-09-13,caught_steal_2b,on_1b,60587,"Jackson Holliday caught stealing 2nd base, catcher Alejandro Kirk to shortstop Andrés Giménez.",walk,60591
+54,671732,2025-09-13,caught_steal_2b,on_1b,61746,"Shea Langeliers strikes out swinging and Lawrence Butler caught stealing 2nd, catcher Tyler Stephenson to second baseman Gavin Lux to catcher Tyler Stephenson.",walk,61752
+55,661388,2025-09-13,caught_steal_2b,on_1b,62107,"Christian Yelich strikes out swinging and William Contreras caught stealing 2nd, catcher Pedro Pagés to shortstop Thomas Saggese to catcher Pedro Pagés.",single,62114
+56,595978,2025-09-12,caught_steal_2b,on_1b,64345,"Austin Hedges caught stealing 2nd base, catcher Kyle Teel to shortstop Colson Montgomery.",single,64346
+57,702616,2025-09-12,steal_2b,on_1b,66653,Jeremiah Jackson strikes out swinging. Jackson Holliday steals (17) 2nd base.,walk,66657
+58,665833,2025-09-11,caught_steal_2b,on_1b,67935,"Oneil Cruz caught stealing 2nd base, catcher Alex Jackson to second baseman Jackson Holliday.",strikeout,70569
+59,676609,2025-09-11,steal_2b,on_1b,69141,Ryan McMahon strikes out swinging. José Caballero steals (45) 2nd base.,single,69146
+60,666160,2025-09-11,steal_2b,on_1b,69637,"Rockies challenged (tag play), call on the field was overturned: Hunter Goodman called out on strikes. Mickey Moniak steals (7) 2nd base.",single,69644
+61,694377,2025-09-10,steal_2b,on_1b,70630,Cam Devanney strikes out swinging. Nick Yorke steals (1) 2nd base.,single,70636
+62,676391,2025-09-10,caught_steal_2b,on_1b,71255,"Joey Loperfido strikes out swinging and Ernie Clement caught stealing 2nd, catcher Yainer Diaz to shortstop Jeremy Peña to catcher Yainer Diaz.",single,71260
+63,669701,2025-09-10,steal_2b,on_1b,74199,Wyatt Langford strikes out swinging. Josh Smith steals (12) 2nd base.,single,74205
+64,642715,2025-09-10,caught_steal_home,on_3b,74442,"Casey Schmitt strikes out swinging and Willy Adames caught stealing home, catcher Gabriel Moreno to second baseman Ildemaro Vargas to third baseman Blaze Alexander to catcher Gabriel Moreno to third baseman Blaze Alexander to catcher Gabriel Moreno.",walk,74457
+65,805249,2025-09-09,steal_2b,on_1b,75247,Kyle Schwarber strikes out swinging. Otto Kemp steals (2) 2nd base.,walk,75259
+66,680869,2025-09-09,steal_2b,on_1b,77010,Shea Langeliers strikes out on a foul tip. Zack Gelof steals (1) 2nd base.,walk,77017
+67,665487,2025-09-09,steal_2b,on_1b,78104,Ryan O'Hearn strikes out swinging. Fernando Tatis Jr. steals (29) 2nd base.,walk,78110
+68,668227,2025-09-09,caught_steal_2b,on_1b,78360,"Randy Arozarena caught stealing 2nd base, catcher Pedro Pagés to shortstop Thomas Saggese.",field_error,78362
+69,671739,2025-09-08,steal_2b,on_1b,79837,Marcell Ozuna strikes out swinging. Michael Harris II steals (16) 2nd base.,single,79845
+70,665862,2025-09-07,steal_2b,on_1b,84216,Austin Wells called out on strikes. Jazz Chisholm Jr. steals (27) 2nd base.,walk,84220
+71,686611,2025-09-07,caught_steal_2b,on_1b,85156,"Dylan Crews caught stealing 2nd base, catcher Carson Kelly to shortstop Dansby Swanson.",single,85163
+72,687401,2025-09-07,steal_2b,on_1b,85510,Brice Turang strikes out on a foul tip. Joey Ortiz steals (12) 2nd base.,single,85514
+73,668227,2025-09-06,steal_2b,on_1b,87311,Cal Raleigh called out on strikes. Randy Arozarena steals (26) 2nd base.,walk,87317
+74,663538,2025-09-06,steal_2b,on_1b,87954,Carson Kelly strikes out swinging. Nico Hoerner steals (24) 2nd base.,single,87959
+75,682829,2025-09-06,caught_steal_2b,on_1b,88396,"Elly De La Cruz caught stealing 2nd base, catcher Luis Torrens to second baseman Jeff McNeil.",force_out,88397
+76,650490,2025-09-06,caught_steal_2b,on_1b,88534,"Yandy Díaz caught stealing 2nd base, catcher Bo Naylor to shortstop Gabriel Arias.",single,88539
+77,663968,2025-09-06,caught_steal_home,on_3b,88562,"Jake Mangum caught stealing home, pitcher Erik Sabrowski to catcher Bo Naylor.",single,88577
+78,680757,2025-09-06,steal_2b,on_1b,88652,José Ramírez strikes out swinging. Steven Kwan steals (17) 2nd base.,single,88662
+79,663728,2025-09-05,caught_steal_2b,on_1b,91692,"Cal Raleigh caught stealing 2nd base, catcher Drake Baldwin to second baseman Ozzie Albies.",single,91699
+80,805367,2025-09-05,caught_steal_2b,on_1b,93281,"Chase Meidroth caught stealing 2nd base, catcher Dillon Dingler to shortstop Zach McKinstry.",single,93285
+81,680757,2025-09-05,steal_2b,on_1b,93640,José Ramírez strikes out swinging. Steven Kwan steals (16) 2nd base.,single,93648
+82,689200,2025-09-05,caught_steal_2b,on_1b,94245,"Jacob Melton caught stealing 2nd base, catcher Kyle Higashioka to second baseman Cody Freeman.",strikeout,113491
+83,677649,2025-09-05,steal_2b,on_1b,94265,Jonah Heim strikes out swinging. Ezequiel Duran steals (8) 2nd base.,single,94268
+84,687551,2025-09-05,caught_steal_2b,on_1b,95224,"Drew Gilbert caught stealing 2nd base, catcher Jimmy Crooks to shortstop Masyn Winn.",single,95226
+85,686668,2025-09-05,steal_2b,on_1b,95745,Ezequiel Tovar strikes out swinging. Brenton Doyle steals (16) 2nd base.,single,95749
+86,691019,2025-09-04,steal_3b,on_2b,96759,Lenyn Sosa strikes out swinging. Kyle Teel steals (3) 3rd base.,double,96765
+87,671277,2025-09-03,steal_2b,on_1b,98432,Dylan Crews called out on strikes. Luis García Jr. to 3rd. Luis García Jr. steals (13) 2nd base. Luis García Jr. to 3rd. Throwing error by catcher Agustín Ramírez.,force_out,98438
+88,702616,2025-09-02,caught_steal_2b,on_1b,106216,"Padres challenged (tag play), call on the field was overturned: Jackson Holliday caught stealing 2nd base, catcher Freddy Fermin to second baseman Jake Cronenworth.",single,106218
+89,702332,2025-09-01,steal_3b,on_2b,108339,Brice Turang walks. Caleb Durbin to 3rd. Caleb Durbin steals (12) 3rd base. Caleb Durbin to 3rd.,walk,108354
+90,680869,2025-09-01,caught_steal_2b,on_1b,109238,"Zack Gelof caught stealing 2nd base, catcher Pedro Pagés to shortstop Masyn Winn.",single,109244
+91,650333,2025-09-01,caught_steal_2b,on_1b,110008,"Manny Machado strikes out swinging and Luis Arraez caught stealing 2nd, catcher Alex Jackson to second baseman Jackson Holliday to catcher Alex Jackson.",single,110015
+92,607208,2025-08-31,steal_2b,on_1b,110483,Kyle Schwarber strikes out swinging. Trea Turner steals (35) 2nd base.,force_out,110490
+93,680776,2025-08-31,caught_steal_2b,on_1b,111805,"Trevor Story strikes out swinging and Jarren Duran caught stealing 2nd, catcher Henry Davis to second baseman Nick Gonzales to catcher Henry Davis.",walk,111810
+94,655316,2025-08-31,caught_steal_home,on_3b,112213,"Andruw Monasterio caught stealing home, catcher Tyler Heineman to second baseman Andrés Giménez to catcher Tyler Heineman.",single,112220
+95,702616,2025-08-31,steal_2b,on_1b,114722,Jeremiah Jackson strikes out swinging. Jackson Holliday steals (14) 2nd base.,walk,114725
+96,678882,2025-08-30,caught_steal_2b,on_1b,114917,"Ceddanne Rafaela caught stealing 2nd base, catcher Joey Bart to shortstop Jared Triolo.",force_out,114918
+97,665742,2025-08-30,steal_2b,on_1b,115649,Pete Alonso strikes out swinging. Juan Soto steals (25) 2nd base.,walk,115655
+98,805367,2025-08-30,steal_2b,on_1b,116975,Mike Tauchman strikes out swinging. Chase Meidroth steals (13) 2nd base.,single,116985
+99,682928,2025-08-30,steal_2b,on_1b,118228,Paul DeJong strikes out swinging. CJ Abrams steals (27) 2nd base.,walk,118235
+100,663968,2025-08-30,caught_steal_2b,on_1b,118248,"Nationals challenged (tag play), call on the field was overturned: Jake Mangum caught stealing 2nd base, catcher Riley Adams to shortstop CJ Abrams.",single,118250
+101,645277,2025-08-28,caught_steal_home,on_3b,124361,"Ozzie Albies caught stealing home, catcher J.T. Realmuto to second baseman Bryson Stott to catcher J.T. Realmuto. Michael Harris II to 2nd.",walk,124371
+102,671289,2025-08-28,steal_2b,on_1b,125142,Mickey Moniak called out on strikes. Tyler Freeman steals (17) 2nd base.,single,125148
+103,663656,2025-08-28,caught_steal_2b,on_1b,126055,"Ian Happ called out on strikes and Kyle Tucker caught stealing 2nd, catcher Patrick Bailey to shortstop Willy Adames to catcher Patrick Bailey.",single,126061
+104,680757,2025-08-27,caught_steal_2b,on_1b,126270,"Rays challenged (tag play), call on the field was overturned: Steven Kwan caught stealing 2nd base, catcher Hunter Feduccia to shortstop Carson Williams.",single,126272
+105,593428,2025-08-27,steal_2b,on_1b,129880,Gavin Sheets strikes out swinging. Xander Bogaerts steals (20) 2nd base.,single,129886
+106,676391,2025-08-26,caught_steal_2b,on_1b,132639,"Ernie Clement caught stealing 2nd base, catcher Mickey Gasper to second baseman Luke Keaschall.",single,132642
+107,672640,2025-08-25,steal_2b,on_1b,135684,Eric Wagaman strikes out swinging. Otto Lopez steals (12) 2nd base.,walk,135688
+108,605137,2025-08-25,caught_steal_2b,on_1b,136544,"Josh Bell caught stealing 2nd base, catcher Ben Rice to second baseman Jazz Chisholm Jr.",single,136548
+109,666176,2025-08-25,steal_2b,on_1b,137873,Luis Rengifo called out on strikes. Jo Adell steals (4) 2nd base.,walk,137881
+110,669288,2025-08-24,caught_steal_2b,on_1b,140146,"Gunnar Henderson strikes out swinging and Daniel Johnson caught stealing 2nd, catcher Yainer Diaz to shortstop Jeremy Peña to catcher Yainer Diaz.",strikeout,172301
+111,665161,2025-08-24,steal_3b,on_2b,140377,Jose Altuve strikes out swinging. Jeremy Peña steals (18) 3rd base.,single,140384
+112,694671,2025-08-24,steal_2b,on_1b,140654,Corey Seager strikes out on a foul tip. Wyatt Langford steals (17) 2nd base.,walk,140661
+113,575929,2025-08-24,caught_steal_2b,on_1b,142008,"Willson Contreras caught stealing 2nd base, catcher Nick Fortes to shortstop Carson Williams.",walk,142011
+114,593871,2025-08-24,steal_2b,on_1b,142899,Victor Robles called out on strikes. Jorge Polanco steals (6) 2nd base.,walk,142905
+115,643396,2025-08-23,caught_steal_2b,on_1b,143067,"Pirates challenged (tag play), call on the field was upheld: Isiah Kiner-Falefa caught stealing 2nd base, catcher Hunter Goodman to second baseman Ryan Ritter.",single,143068
+116,695578,2025-08-23,caught_steal_2b,on_1b,144143,"James Wood caught stealing 2nd base, catcher J.T. Realmuto to shortstop Trea Turner.",single,144151
+117,686217,2025-08-23,caught_steal_2b,on_1b,145967,"Isaac Collins called out on strikes and Sal Frelick caught stealing 2nd, catcher Patrick Bailey to shortstop Willy Adames to catcher Patrick Bailey.",single,145973
+118,691016,2025-08-23,steal_2b,on_1b,146126,Lawrence Butler called out on strikes. Tyler Soderstrom steals (7) 2nd base.,walk,146135
+119,595777,2025-08-22,caught_steal_2b,on_1b,148437,"Matt Olson strikes out swinging and Jurickson Profar caught stealing 2nd, catcher Hayden Senger to shortstop Francisco Lindor to catcher Hayden Senger.",single,148443
+120,676679,2025-08-22,steal_2b,on_1b,148803,Alex Jackson strikes out swinging. Luis Vázquez steals (1) 2nd base.,single,148809
+121,502054,2025-08-22,caught_steal_3b,on_2b,150143,"Tommy Pham caught stealing 3rd base, catcher Braxton Fulford to third baseman Kyle Karros.",double,150149
+122,657656,2025-08-22,caught_steal_3b,on_2b,150446,"Ramón Laureano caught stealing 3rd base, catcher Will Smith to third baseman Buddy Kennedy.",single,150459
+123,672695,2025-08-22,caught_steal_2b,on_1b,150676,"Geraldo Perdomo caught stealing 2nd base, catcher Jose Trevino to shortstop Elly De La Cruz.",single,150684
+124,682641,2025-08-22,steal_2b,on_1b,150906,"Christian Koss strikes out swinging. Luis Matos steals (3) 2nd base. Luis Matos out at 3rd on the throw, center fielder Brandon Lockridge to third baseman Caleb Durbin. Christian Koss out at , catcher William Contreras.",walk,150912
+125,681624,2025-08-21,caught_steal_3b,on_2b,153458,"Rockies challenged (tag play), call on the field was overturned: Andy Pages caught stealing 3rd base, catcher Braxton Fulford to third baseman Orlando Arcia.",walk,153462
+126,677649,2025-08-20,caught_steal_2b,on_1b,155213,"Royals challenged (tag play), call on the field was overturned: Ezequiel Duran caught stealing 2nd base, catcher Salvador Perez to shortstop Bobby Witt Jr.",single,155217
+127,664728,2025-08-20,caught_steal_2b,on_1b,155333,"Mike Yastrzemski strikes out swinging and Kyle Isbel caught stealing 2nd, catcher Kyle Higashioka to shortstop Corey Seager to catcher Kyle Higashioka.",single,155339
+128,673548,2025-08-20,steal_2b,on_1b,156164,Pete Crow-Armstrong strikes out swinging. Seiya Suzuki steals (4) 2nd base.,single,156169
+129,681297,2025-08-19,steal_2b,on_1b,159758,Coby Mayo strikes out swinging. Colton Cowser steals (7) 2nd base.,walk,159764
+130,656775,2025-08-19,steal_2b,on_1b,160553,Francisco Lindor called out on strikes. Cedric Mullins steals (17) 2nd base.,single,160557
+131,595777,2025-08-18,steal_2b,on_1b,163649,Ronald Acuña Jr. strikes out swinging. Jurickson Profar steals (6) 2nd base.,hit_by_pitch,163660
+132,807712,2025-08-17,caught_steal_2b,on_1b,170048,"Luke Keaschall caught stealing 2nd base, catcher Jake Rogers to second baseman Zach McKinstry.",force_out,170052
+133,649966,2025-08-17,caught_steal_2b,on_1b,170350,"Luis Urías caught stealing 2nd base, catcher Logan O'Hoppe to shortstop Zach Neto.",single,170354
+134,666211,2025-08-16,caught_steal_2b,on_1b,172391,"Taylor Trammell caught stealing 2nd base, catcher Adley Rutschman to shortstop Gunnar Henderson.",walk,172393
+135,650859,2025-08-16,steal_2b,on_1b,173802,Bryce Teodosio called out on strikes. Luis Rengifo steals (5) 2nd base.,single,173812
+136,592518,2025-08-16,caught_steal_2b,on_1b,174129,"Manny Machado caught stealing 2nd base, catcher Will Smith to second baseman Miguel Rojas.",single,174135
+137,656716,2025-08-16,steal_2b,on_1b,174187,Dillon Dingler strikes out swinging. Zach McKinstry steals (18) 2nd base.,single,174193
+138,682998,2025-08-16,steal_2b,on_1b,174621,Lourdes Gurriel Jr. strikes out swinging. Corbin Carroll steals (15) 2nd base.,single,174627
+139,676609,2025-08-16,steal_3b,on_2b,174912,Trent Grisham walks. José Caballero to 3rd. José Caballero steals (39) 3rd base. José Caballero to 3rd.,walk,174916
+140,691176,2025-08-16,caught_steal_2b,on_1b,175004,"Anthony Volpe strikes out swinging and Jasson Domínguez caught stealing 2nd, catcher Pedro Pagés to second baseman Thomas Saggese to catcher Pedro Pagés.",single,175007
+141,691176,2025-08-16,steal_2b,on_1b,175149,Anthony Volpe strikes out on a foul tip. Jasson Domínguez steals (20) 2nd base.,single,175152
+142,808982,2025-08-16,steal_2b,on_1b,175495,Tyler Fitzgerald strikes out swinging. Jung Hoo Lee steals (10) 2nd base.,single,175501
+143,671739,2025-08-15,caught_steal_2b,on_1b,176648,"Sean Murphy called out on strikes and Michael Harris II caught stealing 2nd, catcher Bo Naylor to second baseman Brayan Rocchio to catcher Bo Naylor.",single,176655
+144,669397,2025-08-15,caught_steal_2b,on_1b,176696,"Guardians challenged (tag play), call on the field was overturned: Nick Allen caught stealing 2nd base, catcher Bo Naylor to shortstop Gabriel Arias.",single,176698
+145,671739,2025-08-15,caught_steal_2b,on_1b,176861,"Michael Harris II caught stealing 2nd base, catcher Bo Naylor to second baseman Brayan Rocchio.",force_out,176871
+146,664023,2025-08-15,caught_steal_2b,on_1b,176933,"Ian Happ caught stealing 2nd base, catcher Henry Davis to shortstop Jared Triolo.",walk,176936
+147,672386,2025-08-15,steal_2b,on_1b,177523,Myles Straw strikes out on a foul tip. Alejandro Kirk steals (1) 2nd base.,single,177526
+148,691176,2025-08-15,caught_steal_2b,on_1b,178948,"Cardinals challenged (tag play), call on the field was overturned: Jasson Domínguez caught stealing 2nd base, catcher Pedro Pagés to shortstop Masyn Winn.",single,178951
+149,671289,2025-08-15,caught_steal_2b,on_1b,179087,"Diamondbacks challenged (tag play), call on the field was overturned: Hunter Goodman strikes out swinging and Tyler Freeman caught stealing 2nd, catcher James McCann to second baseman Ketel Marte to catcher James McCann.",walk,179099
+150,660271,2025-08-15,caught_steal_2b,on_1b,180054,"Shohei Ohtani caught stealing 2nd base, catcher Freddy Fermin to second baseman Jake Cronenworth.",force_out,180060
+151,691781,2025-08-13,caught_steal_2b,on_1b,183332,"Brady House caught stealing 2nd base, catcher Salvador Perez to shortstop Bobby Witt Jr.",single,183333
+152,671056,2025-08-13,steal_2b,on_1b,183753,Masyn Winn called out on strikes. Iván Herrera steals (5) 2nd base.,single,183759
+153,595777,2025-08-13,steal_2b,on_1b,184264,Matt Olson strikes out swinging. Jurickson Profar steals (5) 2nd base.,single,184271
+154,686217,2025-08-13,steal_2b,on_1b,184627,Isaac Collins strikes out swinging. Sal Frelick steals (18) 2nd base.,single,184635
+155,663757,2025-08-12,caught_steal_2b,on_1b,187752,"Twins challenged (tag play), call on the field was overturned: Trent Grisham caught stealing 2nd base, catcher Mickey Gasper to shortstop Ryan Fitzgerald.",single,187759
+156,595777,2025-08-12,steal_2b,on_1b,188430,Matt Olson strikes out swinging. Jurickson Profar steals (4) 2nd base.,walk,188437
+157,665161,2025-08-12,steal_2b,on_1b,189413,Carlos Correa strikes out swinging. Jeremy Peña steals (17) 2nd base.,single,189420
+158,664040,2025-08-11,caught_steal_home,on_3b,191647,"Brandon Lowe caught stealing home, catcher Shea Langeliers to second baseman Luis Urías to catcher Shea Langeliers.",single,191659
+159,663853,2025-08-11,caught_steal_2b,on_1b,192884,"Romy Gonzalez caught stealing 2nd base, catcher Yainer Diaz to second baseman Ramón Urías.",single,192886
+160,687551,2025-08-11,steal_2b,on_1b,193600,"Padres challenged (tag play), call on the field was overturned: Drew Gilbert steals (1) 2nd base. Drew Gilbert out at 3rd on the throw, center fielder Jackson Merrill to third baseman Manny Machado.",single,193612
+161,656185,2025-08-10,caught_steal_2b,on_1b,194492,"Greg Allen caught stealing 2nd base, catcher Willie MacIver to second baseman Max Schuemann.",fielders_choice_out,194494
+162,687231,2025-08-10,caught_steal_2b,on_1b,194502,"JJ Bleday strikes out swinging and Darell Hernaiz caught stealing 2nd, catcher Alex Jackson to shortstop Gunnar Henderson to catcher Alex Jackson.",walk,194505
+163,660271,2025-08-10,caught_steal_3b,on_2b,198345,"Shohei Ohtani caught stealing 3rd base, catcher Tyler Heineman to third baseman Addison Barger.",single,198357
+164,670770,2025-08-09,steal_2b,on_1b,201242,Elly De La Cruz called out on strikes. TJ Friedl steals (11) 2nd base.,walk,201252
+165,664059,2025-08-09,caught_steal_2b,on_1b,201708,"Corey Seager strikes out swinging and Sam Haggerty caught stealing 2nd, catcher J.T. Realmuto to shortstop Trea Turner to catcher J.T. Realmuto.",single,201711
+166,664056,2025-08-09,caught_steal_2b,on_1b,201807,"Harrison Bader caught stealing 2nd base, catcher Jonah Heim to shortstop Corey Seager.",single,201809
+167,665487,2025-08-09,steal_3b,on_2b,202616,Jackson Merrill walks. Fernando Tatis Jr. to 3rd. Fernando Tatis Jr. steals (24) 3rd base. Fernando Tatis Jr. to 3rd.,single,202627
+168,802415,2025-08-09,caught_steal_2b,on_1b,203000,"Chandler Simpson caught stealing 2nd base, catcher Cal Raleigh to shortstop J.P. Crawford.",single,203003
+169,696285,2025-08-09,caught_steal_2b,on_1b,203164,"Jacob Young caught stealing 2nd base, catcher Andrew Knizner to shortstop Willy Adames.",single,203167
+170,672356,2025-08-08,caught_steal_2b,on_1b,204067,"Gabriel Arias caught stealing 2nd base, catcher Kyle Teel to shortstop Colson Montgomery.",single,204076
+171,686555,2025-08-06,caught_steal_2b,on_1b,209809,"Isaac Collins caught stealing 2nd base, catcher Sean Murphy to shortstop Nick Allen.",walk,209812
+172,643396,2025-08-06,steal_2b,on_1b,211677,Liover Peguero strikes out swinging. Isiah Kiner-Falefa steals (14) 2nd base.,single,211682
+173,691026,2025-08-06,steal_2b,on_1b,212601,Nolan Gorman strikes out swinging. Masyn Winn steals (7) 2nd base.,single,212605
+174,630105,2025-08-06,caught_steal_home,on_3b,212943,"Jake Cronenworth caught stealing home, catcher James McCann to shortstop Geraldo Perdomo to catcher James McCann.",single,212953
+175,671289,2025-08-06,steal_2b,on_1b,213376,Mickey Moniak strikes out swinging. Tyler Freeman steals (14) 2nd base.,single,213379
+176,668885,2025-08-05,caught_steal_3b,on_2b,215590,"Austin Martin caught stealing 3rd base, catcher Jake Rogers to third baseman Colt Keith.",force_out,215605
+177,807712,2025-08-05,caught_steal_2b,on_1b,215645,"Luke Keaschall caught stealing 2nd base, catcher Jake Rogers to second baseman Zach McKinstry.",single,215648
+178,670764,2025-08-05,steal_2b,on_1b,217653,Chandler Simpson called out on strikes. Taylor Walls steals (14) 2nd base.,force_out,217657
+179,693304,2025-08-04,caught_steal_2b,on_1b,218524,"Pirates challenged (tag play), call on the field was upheld: Nick Gonzales caught stealing 2nd base, catcher Patrick Bailey to second baseman Casey Schmitt.",single,218533
+180,680574,2025-08-04,steal_2b,on_1b,219079,Elly De La Cruz called out on strikes. Matt McLain steals (16) 2nd base.,walk,219084
+181,694388,2025-08-03,caught_steal_2b,on_1b,222559,"Vladimir Guerrero Jr. called out on strikes and Joey Loperfido caught stealing 2nd, catcher Salvador Perez to second baseman Adam Frazier to catcher Salvador Perez.",single,222567
+182,682177,2025-08-03,caught_steal_3b,on_2b,222788,"Kyle Manzardo strikes out swinging and Daniel Schneemann caught stealing 3rd, catcher Christian Vázquez to third baseman Royce Lewis to catcher Christian Vázquez.",double,222800
+183,681624,2025-08-03,steal_2b,on_1b,223672,Alex Freeland strikes out on a foul tip. Andy Pages steals (9) 2nd base.,hit_by_pitch,223678
+184,683002,2025-08-03,caught_steal_2b,on_1b,223923,"Gunnar Henderson caught stealing 2nd base, catcher Carson Kelly to shortstop Dansby Swanson.",force_out,223924
+185,672761,2025-08-02,caught_steal_2b,on_1b,225956,"Tigers challenged (tag play), call on the field was upheld: Wenceel Pérez caught stealing 2nd base, catcher J.T. Realmuto to second baseman Edmundo Sosa.",single,225961
+186,805300,2025-08-02,caught_steal_3b,on_2b,226627,"Jakob Marsee caught stealing 3rd base, catcher Ben Rice to third baseman Ryan McMahon.",double,226632
+187,676914,2025-08-02,steal_3b,on_2b,228880,Vladimir Guerrero Jr. walks. Davis Schneider to 3rd. Davis Schneider steals (1) 3rd base. Davis Schneider to 3rd.,single,228889
+188,677942,2025-08-02,caught_steal_2b,on_1b,229028,"Blaze Alexander caught stealing 2nd base, catcher Shea Langeliers to shortstop Darell Hernaiz.",walk,229030
+189,650859,2025-08-01,steal_2b,on_1b,233209,Travis d'Arnaud strikes out swinging. Luis Rengifo steals (4) 2nd base.,walk,233213
+190,669236,2025-08-01,caught_steal_2b,on_1b,233448,"Jeremiah Jackson caught stealing 2nd base, catcher Carson Kelly to shortstop Dansby Swanson.",single,233450
+191,665862,2025-07-31,steal_3b,on_2b,235087,Jasson Domínguez walks. Jazz Chisholm Jr. to 3rd. Jazz Chisholm Jr. steals (13) 3rd base. Jazz Chisholm Jr. to 3rd.,force_out,235093
+192,593871,2025-07-31,steal_2b,on_1b,235335,Dominic Canzone called out on strikes. Jorge Polanco steals (4) 2nd base.,walk,235340
+193,666018,2025-07-30,caught_steal_2b,on_1b,237164,"Junior Caminero strikes out swinging and Jonathan Aranda caught stealing 2nd, catcher Austin Wells to second baseman Jazz Chisholm Jr. to catcher Austin Wells.",single,237171
+194,572233,2025-07-30,caught_steal_2b,on_1b,237415,"Cam Smith strikes out swinging and Christian Walker caught stealing 2nd, catcher Drew Millas to second baseman Luis García Jr. to catcher Drew Millas.",hit_by_pitch,237422
+195,694388,2025-07-29,caught_steal_home,on_3b,240012,"Joey Loperfido caught stealing home, catcher Alex Jackson to shortstop Gunnar Henderson to catcher Alex Jackson.",single,240021
+196,672640,2025-07-29,caught_steal_2b,on_1b,243582,"Otto Lopez caught stealing 2nd base, catcher Pedro Pagés to shortstop Masyn Winn.",single,243584
+197,672569,2025-07-29,caught_steal_2b,on_1b,243911,"Gustavo Campero caught stealing 2nd base, catcher Kyle Higashioka to second baseman Marcus Semien.",force_out,243913
+198,666971,2025-07-28,caught_steal_2b,on_1b,244814,"Tristin English strikes out swinging and Lourdes Gurriel Jr. caught stealing 2nd, catcher Dillon Dingler to second baseman Gleyber Torres to catcher Dillon Dingler.",single,244820
+199,643446,2025-07-28,steal_2b,on_1b,248347,Brett Baty strikes out swinging. Jeff McNeil steals (2) 2nd base.,walk,248356
+200,664023,2025-07-27,steal_2b,on_1b,249126,Dansby Swanson called out on strikes. Ian Happ steals (5) 2nd base.,walk,249132
+201,691176,2025-07-27,steal_2b,on_1b,249384,Ryan McMahon called out on strikes. Jasson Domínguez steals (15) 2nd base.,single,249387
+202,687597,2025-07-27,caught_steal_2b,on_1b,250124,"Yanquiel Fernández strikes out on a foul tip and Jordan Beck caught stealing 2nd, catcher Alex Jackson to shortstop Gunnar Henderson to catcher Alex Jackson.",walk,250133
+203,690993,2025-07-26,caught_steal_2b,on_1b,253841,"Blue Jays challenged (tag play), call on the field was overturned: Colt Keith caught stealing 2nd base, catcher Tyler Heineman to second baseman Leo Jiménez.",walk,253844
+204,606192,2025-07-26,caught_steal_2b,on_1b,255286,"Teoscar Hernández caught stealing 2nd base, catcher Carlos Narváez to second baseman Romy Gonzalez.",walk,255295
+205,669743,2025-07-26,caught_steal_2b,on_1b,255683,"Alex Call caught stealing 2nd base, catcher Christian Vázquez to shortstop Carlos Correa.",single,255690
+206,702332,2025-07-26,caught_steal_2b,on_1b,255991,"Marlins challenged (tag play), call on the field was overturned: Caleb Durbin caught stealing 2nd base, catcher Nick Fortes to second baseman Xavier Edwards.",single,255992
+207,672640,2025-07-26,caught_steal_2b,on_1b,256034,"Otto Lopez caught stealing 2nd base, catcher William Contreras to second baseman Brice Turang.",walk,256038
+208,666176,2025-07-26,caught_steal_2b,on_1b,256277,"Mariners challenged (tag play), call on the field was overturned: Jo Adell caught stealing 2nd base, catcher Mitch Garver to shortstop J.P. Crawford.",walk,256284
+209,670097,2025-07-26,caught_steal_2b,on_1b,257355,"Jose Altuve called out on strikes and Zack Short caught stealing 2nd, catcher Shea Langeliers to second baseman Luis Urías to catcher Shea Langeliers.",walk,257366
+210,672761,2025-07-25,steal_2b,on_1b,258952,Zach McKinstry strikes out swinging. Wenceel Pérez steals (3) 2nd base.,single,258957
+211,681624,2025-07-25,caught_steal_2b,on_1b,259983,"Michael Conforto called out on strikes and Andy Pages caught stealing 2nd, catcher Connor Wong to shortstop Trevor Story to catcher Connor Wong.",single,259989
+212,518692,2025-07-25,caught_steal_home,on_3b,260124,"Freddie Freeman caught stealing home, catcher Connor Wong to shortstop Trevor Story to catcher Connor Wong.",single,260144
+213,664056,2025-07-25,caught_steal_2b,on_1b,260370,"Harrison Bader caught stealing 2nd base, catcher Riley Adams to second baseman Luis García Jr.",walk,260373
+214,543760,2025-07-25,steal_2b,on_1b,260688,Adolis García strikes out swinging. Marcus Semien steals (9) 2nd base.,walk,260696
+215,570482,2025-07-24,caught_steal_2b,on_1b,262348,"Luis Urías called out on strikes and Gio Urshela caught stealing 2nd, catcher Victor Caratini to second baseman Brice Matthews to catcher Victor Caratini.",single,262354
+216,608070,2025-07-24,caught_steal_2b,on_1b,263269,"Kyle Manzardo called out on strikes and José Ramírez caught stealing 2nd, catcher Alex Jackson to shortstop Gunnar Henderson to catcher Alex Jackson.",hit_by_pitch,263275
+217,810938,2025-07-24,steal_2b,on_1b,263530,J.P. Crawford strikes out swinging. Ben Williamson steals (4) 2nd base.,fielders_choice,263537
+218,642201,2025-07-23,steal_2b,on_1b,263876,Nick Allen called out on strikes. Eli White steals (7) 2nd base.,single,263883
+219,642215,2025-07-23,caught_steal_2b,on_1b,264115,"Weston Wilson caught stealing 2nd base, catcher Carlos Narváez to second baseman Ceddanne Rafaela.",single,401117
+220,666211,2025-07-23,caught_steal_home,on_3b,265533,"Taylor Trammell caught stealing home, catcher James McCann to second baseman Ketel Marte to catcher James McCann.",walk,265546
+221,802415,2025-07-22,steal_2b,on_1b,269490,Yandy Díaz strikes out swinging. Chandler Simpson steals (29) 2nd base.,single,269494
+222,680574,2025-07-22,caught_steal_2b,on_1b,271283,"Matt McLain caught stealing 2nd base, catcher Riley Adams to shortstop CJ Abrams.",fielders_choice_out,271284
+223,650489,2025-07-22,caught_steal_2b,on_1b,271847,"Willi Castro caught stealing 2nd base, catcher Will Smith to shortstop Mookie Betts.",single,271859
+224,592663,2025-07-21,steal_2b,on_1b,273954,Brandon Marsh strikes out swinging. J.T. Realmuto steals (6) 2nd base.,single,273959
+225,678882,2025-07-21,caught_steal_2b,on_1b,273970,"Ceddanne Rafaela caught stealing 2nd base, catcher J.T. Realmuto to shortstop Trea Turner.",single,273973
+226,457705,2025-07-21,caught_steal_2b,on_1b,274737,"Pirates challenged (tag play), call on the field was upheld: Andrew McCutchen caught stealing 2nd base, catcher Dillon Dingler to second baseman Gleyber Torres.",single,274746
+227,673490,2025-07-21,steal_2b,on_1b,275144,Christopher Morel strikes out swinging. Ha-Seong Kim steals (4) 2nd base.,walk,275147
+228,694671,2025-07-21,caught_steal_2b,on_1b,275353,"Athletics challenged (tag play), call on the field was overturned: Wyatt Langford caught stealing 2nd base, catcher Shea Langeliers to second baseman Luis Urías.",walk,275357
+229,682622,2025-07-20,caught_steal_2b,on_1b,276645,"Noelvi Marte caught stealing 2nd base, catcher Luis Torrens to shortstop Francisco Lindor.",single,276650
+230,664023,2025-07-20,caught_steal_2b,on_1b,279136,"Ian Happ caught stealing 2nd base, catcher Carlos Narváez to second baseman Ceddanne Rafaela.",single,279145
+231,663538,2025-07-20,steal_2b,on_1b,279170,Kyle Tucker strikes out swinging. Nico Hoerner steals (17) 2nd base.,single,279174
+232,687597,2025-07-20,caught_steal_2b,on_1b,279984,"Jordan Beck caught stealing 2nd base, catcher Christian Vázquez to shortstop Carlos Correa.",single,279985
+233,682657,2025-07-19,caught_steal_2b,on_1b,281035,"Angel Martínez caught stealing 2nd base, catcher Austin Wynns to shortstop Jacob Wilson.",single,281039
+234,666139,2025-07-19,caught_steal_2b,on_1b,281967,"Josh Lowe caught stealing 2nd base, catcher Jacob Stallings to shortstop Gunnar Henderson.",walk,281973
+235,607208,2025-07-19,steal_2b,on_1b,283544,Bryce Harper strikes out swinging. Trea Turner steals (25) 2nd base.,single,283559
+236,671277,2025-07-18,caught_steal_2b,on_1b,285715,"Josh Bell called out on strikes and Luis García Jr. caught stealing 2nd, catcher Elias Díaz to shortstop Xander Bogaerts to catcher Elias Díaz.",single,285721
+237,650333,2025-07-18,caught_steal_2b,on_1b,285757,"Luis Arraez caught stealing 2nd base, catcher Riley Adams to second baseman Luis García Jr.",single,285759
+238,608070,2025-07-18,caught_steal_2b,on_1b,287841,"José Ramírez caught stealing 2nd base, catcher Shea Langeliers to second baseman Max Muncy.",walk,287847
+239,807713,2025-07-18,steal_2b,on_1b,288539,Michael Busch called out on strikes. Matt Shaw steals (12) 2nd base.,single,288547
+240,657656,2025-07-13,caught_steal_3b,on_2b,290009,"Ramón Laureano caught stealing 3rd base, catcher Nick Fortes to third baseman Graham Pauley.",double,290015
+241,683002,2025-07-13,caught_steal_2b,on_1b,290034,"Gunnar Henderson caught stealing 2nd base, catcher Nick Fortes to shortstop Otto Lopez.",fielders_choice_out,290038
+242,661388,2025-07-13,caught_steal_2b,on_1b,291160,"Christian Yelich called out on strikes and William Contreras caught stealing 2nd, catcher Riley Adams to shortstop Paul DeJong to catcher Riley Adams.",single,291170
+243,677587,2025-07-13,caught_steal_2b,on_1b,292045,"Brayan Rocchio caught stealing 2nd base, catcher Edgar Quero to shortstop Chase Meidroth.",single,292052
+244,671056,2025-07-13,steal_2b,on_1b,292659,Alec Burleson strikes out swinging. Iván Herrera steals (3) 2nd base.,walk,292665
+245,665487,2025-07-13,caught_steal_2b,on_1b,292827,"Padres challenged (tag play), call on the field was upheld: Fernando Tatis Jr. caught stealing 2nd base, catcher J.T. Realmuto to shortstop Trea Turner.",walk,292828
+246,665487,2025-07-13,steal_3b,on_2b,292986,Xander Bogaerts walks. Fernando Tatis Jr. to 3rd. Fernando Tatis Jr. steals (21) 3rd base. Fernando Tatis Jr. to 3rd.,single,292993
+247,679529,2025-07-12,caught_steal_2b,on_1b,294037,"Tigers challenged (tag play), call on the field was upheld: Spencer Torkelson caught stealing 2nd base, catcher Cal Raleigh to shortstop J.P. Crawford.",single,294041
+248,691785,2025-07-12,caught_steal_2b,on_1b,294390,"Marcelo Mayer caught stealing 2nd base, catcher Danny Jansen to second baseman Ha-Seong Kim.",walk,294397
+249,694192,2025-07-12,caught_steal_2b,on_1b,296400,"Jackson Chourio caught stealing 2nd base, catcher Riley Adams to shortstop CJ Abrams.",single,296401
+250,671732,2025-07-12,steal_2b,on_1b,297327,Jacob Wilson strikes out swinging. Lawrence Butler steals (15) 2nd base.,walk,297330
+251,650859,2025-07-12,caught_steal_2b,on_1b,297582,"Luis Rengifo caught stealing 2nd base, catcher James McCann to second baseman Ketel Marte.",single,297586
+252,666139,2025-07-11,caught_steal_3b,on_2b,299410,"Josh Lowe caught stealing 3rd base, catcher Carlos Narváez to third baseman Alex Bregman.",force_out,299412
+253,542932,2025-07-11,steal_2b,on_1b,300161,Kyle Tucker strikes out swinging. Jon Berti steals (10) 2nd base.,single,300168
+254,665833,2025-07-11,steal_2b,on_1b,301544,Ke'Bryan Hayes strikes out swinging. Oneil Cruz steals (29) 2nd base.,single,301549
+255,682177,2025-07-11,steal_3b,on_2b,302241,Will Wilson walks. Daniel Schneemann to 3rd. Daniel Schneemann steals (6) 3rd base. Daniel Schneemann to 3rd.,double,302246
+256,656775,2025-07-10,steal_2b,on_1b,303161,Alex Jackson strikes out on a foul tip. Cedric Mullins steals (12) 2nd base.,single,303167
+257,691016,2025-07-10,caught_steal_2b,on_1b,305844,"Max Muncy called out on strikes and Tyler Soderstrom caught stealing 2nd, catcher Sean Murphy to second baseman Ozzie Albies to catcher Sean Murphy.",single,305851
+258,691176,2025-07-09,caught_steal_2b,on_1b,305985,"Mariners challenged (tag play), call on the field was overturned: Aaron Judge strikes out swinging and Jasson Domínguez caught stealing 2nd, catcher Cal Raleigh to second baseman Cole Young to catcher Cal Raleigh.",walk,305989
+259,502671,2025-07-09,caught_steal_2b,on_1b,306085,"Paul Goldschmidt caught stealing 2nd base, catcher Cal Raleigh to shortstop J.P. Crawford.",single,306087
+260,687597,2025-07-09,caught_steal_2b,on_1b,307073,"Jordan Beck caught stealing 2nd base, catcher Carlos Narváez to shortstop Trevor Story.",single,307078
+261,686217,2025-07-09,steal_2b,on_1b,307965,Jackson Chourio strikes out swinging. Sal Frelick steals (16) 2nd base.,hit_by_pitch,307972
+262,670242,2025-07-09,caught_steal_2b,on_1b,308601,"Matt Wallner caught stealing 2nd base, catcher Reese McGuire to second baseman Nico Hoerner to first baseman Michael Busch. Royce Lewis scores.",single,308604
+263,676059,2025-07-08,caught_steal_2b,on_1b,310170,"Gunnar Henderson strikes out swinging and Jordan Westburg caught stealing 2nd, catcher Luis Torrens to shortstop Francisco Lindor to catcher Luis Torrens.",single,310177
+264,661388,2025-07-08,caught_steal_3b,on_2b,311305,"Christian Yelich strikes out swinging and William Contreras caught stealing 3rd, catcher Dalton Rushing to third baseman Miguel Rojas to catcher Dalton Rushing. Jackson Chourio to 2nd.",single,311318
+265,656941,2025-07-08,caught_steal_3b,on_2b,313327,"Alec Bohm walks. Kyle Schwarber caught stealing 3rd base, catcher Patrick Bailey to third baseman Matt Chapman.",hit_by_pitch,313337
+266,647304,2025-07-07,steal_2b,on_1b,315485,Eugenio Suárez strikes out swinging. Josh Naylor steals (11) 2nd base.,walk,315489
+267,672695,2025-07-07,caught_steal_2b,on_1b,315524,"Geraldo Perdomo caught stealing 2nd base, catcher Martín Maldonado to second baseman Jake Cronenworth.",single,315525
+268,666134,2025-07-07,steal_2b,on_1b,315822,Daniel Schneemann strikes out swinging. Nolan Jones steals (6) 2nd base.,single,315831
+269,702616,2025-07-06,caught_steal_2b,on_1b,317774,"Ramón Laureano called out on strikes and Jackson Holliday caught stealing 2nd, catcher Sean Murphy to second baseman Ozzie Albies to catcher Sean Murphy.",single,317780
+270,592663,2025-07-06,caught_steal_2b,on_1b,318838,"J.T. Realmuto caught stealing 2nd base, catcher Tyler Stephenson to shortstop Elly De La Cruz.",force_out,318841
+271,665487,2025-07-06,steal_2b,on_1b,320673,Manny Machado strikes out swinging. Fernando Tatis Jr. steals (19) 2nd base.,walk,320689
+272,677587,2025-07-05,caught_steal_2b,on_1b,321843,"Brayan Rocchio caught stealing 2nd base, catcher Jake Rogers to shortstop Trey Sweeney.",walk,321845
+273,694192,2025-07-05,steal_2b,on_1b,322152,Brice Turang strikes out swinging. Jackson Chourio steals (16) 2nd base.,single,322157
+274,663616,2025-07-04,caught_steal_2b,on_1b,327822,"Trevor Larnach caught stealing 2nd base, catcher Danny Jansen to second baseman Brandon Lowe.",single,327824
+275,668227,2025-07-04,caught_steal_2b,on_1b,329743,"Randy Arozarena caught stealing 2nd base, catcher Joey Bart to second baseman Nick Gonzales.",single,329744
+276,687263,2025-07-03,steal_2b,on_1b,331058,Mike Trout strikes out swinging. Zach Neto steals (14) 2nd base.,single,331067
+277,677594,2025-07-03,steal_2b,on_1b,333098,Cal Raleigh strikes out swinging. Julio Rodríguez steals (14) 2nd base.,walk,333103
+278,657136,2025-07-02,caught_steal_2b,on_1b,334565,"Connor Wong caught stealing 2nd base, catcher Tyler Stephenson to shortstop Matt McLain.",single,334567
+279,650489,2025-07-02,caught_steal_2b,on_1b,334956,"Brooks Lee strikes out swinging and Willi Castro caught stealing 2nd, catcher Agustín Ramírez to shortstop Otto Lopez to catcher Agustín Ramírez.",single,334963
+280,679032,2025-07-02,steal_2b,on_1b,335751,Kyle Schwarber strikes out swinging. Johan Rojas to 3rd. Johan Rojas steals (10) 2nd base. Johan Rojas to 3rd. Throwing error by catcher Elias Díaz.,single,335763
+281,671289,2025-07-02,steal_2b,on_1b,336829,Hunter Goodman strikes out swinging. Tyler Freeman steals (11) 2nd base.,single,336835
+282,666969,2025-07-02,caught_steal_2b,on_1b,337167,"Adolis García caught stealing 2nd base, catcher Jacob Stallings to shortstop Gunnar Henderson.",single,337169
+283,691718,2025-07-02,steal_2b,on_1b,337761,Michael Busch strikes out swinging. Pete Crow-Armstrong steals (26) 2nd base.,single,337772
+284,650489,2025-07-01,steal_2b,on_1b,339149,Carlos Correa strikes out swinging. Willi Castro steals (5) 2nd base.,single,339154
+285,573262,2025-07-01,steal_2b,on_1b,341924,Rafael Devers strikes out swinging. Mike Yastrzemski steals (6) 2nd base.,single,341933
+286,666969,2025-06-30,steal_2b,on_1b,343684,Jonah Heim strikes out swinging. Adolis García steals (8) 2nd base.,single,343689
+287,676694,2025-06-29,steal_2b,on_1b,346613,Jose Altuve strikes out swinging. Jake Meyers steals (14) 2nd base.,field_error,346617
+288,687263,2025-06-29,caught_steal_2b,on_1b,347119,"Zach Neto caught stealing 2nd base, catcher Drew Millas to shortstop CJ Abrams.",force_out,347120
+289,695734,2025-06-29,caught_steal_2b,on_1b,347333,"Angels challenged (tag play), call on the field was overturned: Daylen Lile caught stealing 2nd base, catcher Logan O'Hoppe to shortstop Kevin Newman.",single,347335
+290,571657,2025-06-29,caught_steal_2b,on_1b,348388,"Braxton Fulford strikes out swinging and Kyle Farmer caught stealing 2nd, catcher William Contreras to second baseman Brice Turang to catcher William Contreras.",single,348395
+291,642731,2025-06-29,steal_2b,on_1b,348427,Ryan McMahon strikes out swinging. Thairo Estrada steals (1) 2nd base.,single,348433
+292,669397,2025-06-28,caught_steal_2b,on_1b,348782,"Phillies challenged (tag play), call on the field was overturned: Ronald Acuña Jr. strikes out swinging and Nick Allen caught stealing 2nd, catcher J.T. Realmuto to second baseman Bryson Stott to catcher J.T. Realmuto.",single,348788
+293,807713,2025-06-28,steal_2b,on_1b,352121,Reese McGuire strikes out swinging. Matt Shaw steals (10) 2nd base.,single,352127
+294,666971,2025-06-28,caught_steal_2b,on_1b,352683,"Lourdes Gurriel Jr. caught stealing 2nd base, catcher Liam Hicks to shortstop Otto Lopez.",hit_by_pitch,352687
+295,695734,2025-06-27,caught_steal_2b,on_1b,357625,"With Riley Adams batting, Daylen Lile picked off and caught stealing 2nd base, second baseman Christian Moore.",single,357626
+296,608070,2025-06-26,steal_2b,on_1b,358257,Carlos Santana called out on strikes. José Ramírez steals (21) 2nd base.,hit_by_pitch,358264
+297,671732,2025-06-25,steal_2b,on_1b,360505,"Tigers challenged (tag play), call on the field was upheld: Jacob Wilson called out on strikes. Lawrence Butler steals (12) 2nd base.",walk,360511
+298,672695,2025-06-25,caught_steal_2b,on_1b,360695,"Geraldo Perdomo caught stealing 2nd base, catcher Kyle Teel to shortstop Chase Meidroth.",single,360704
+299,672695,2025-06-25,steal_2b,on_1b,360836,Ketel Marte strikes out on a foul tip. Geraldo Perdomo steals (12) 2nd base.,strikeout,360842
+300,680757,2025-06-25,steal_2b,on_1b,361449,Kyle Manzardo strikes out swinging. Steven Kwan steals (11) 2nd base.,walk,361455
+301,691176,2025-06-25,steal_3b,on_2b,361554,Austin Wells walks. Jasson Domínguez to 3rd. Jasson Domínguez steals (12) 3rd base. Jasson Domínguez to 3rd.,single,361566
+302,672580,2025-06-25,caught_steal_2b,on_1b,363568,"Maikel Garcia caught stealing 2nd base, catcher Danny Jansen to shortstop José Caballero.",single,363569
+303,681624,2025-06-25,caught_steal_2b,on_1b,363647,"Tommy Edman called out on strikes and Andy Pages caught stealing 2nd, catcher Hunter Goodman to shortstop Orlando Arcia to catcher Hunter Goodman.",single,363653
+304,681393,2025-06-25,steal_2b,on_1b,364241,"Giants challenged (tag play), call on the field was upheld: Xavier Edwards called out on strikes. Connor Norby steals (7) 2nd base.",single,364253
+305,676391,2025-06-24,steal_2b,on_1b,365633,Vladimir Guerrero Jr. strikes out swinging. Ernie Clement steals (3) 2nd base.,walk,365638
+306,664059,2025-06-24,steal_2b,on_1b,366068,Kyle Higashioka strikes out swinging. Sam Haggerty steals (8) 2nd base.,fielders_choice,366074
+307,687263,2025-06-24,caught_steal_2b,on_1b,367247,"Zach Neto caught stealing 2nd base, catcher Carlos Narváez to second baseman David Hamilton.",single,367252
+308,668930,2025-06-24,caught_steal_2b,on_1b,368027,"Brice Turang caught stealing 2nd base, catcher Henry Davis to second baseman Nick Gonzales.",single,368034
+309,691781,2025-06-23,steal_2b,on_1b,371117,Daylen Lile strikes out swinging. Brady House steals (2) 2nd base.,single,371123
+310,695734,2025-06-23,caught_steal_2b,on_1b,371159,"Daylen Lile caught stealing 2nd base, catcher Elias Díaz to shortstop Xander Bogaerts.",walk,371166
+311,666152,2025-06-23,caught_steal_2b,on_1b,371464,"David Hamilton caught stealing 2nd base, catcher Travis d'Arnaud to shortstop Zach Neto.",force_out,371470
+312,676609,2025-06-22,steal_2b,on_1b,371642,Matt Thaiss strikes out swinging. José Caballero steals (29) 2nd base.,walk,371651
+313,673357,2025-06-22,caught_steal_2b,on_1b,372037,"Luis Robert Jr. caught stealing 2nd base, catcher Alejandro Kirk to shortstop Bo Bichette.",force_out,372038
+314,669364,2025-06-22,steal_2b,on_1b,373725,Jesús Sánchez strikes out swinging. Xavier Edwards steals (14) 2nd base.,walk,373731
+315,667472,2025-06-20,caught_steal_2b,on_1b,380370,"Dane Myers caught stealing 2nd base, catcher Sean Murphy to shortstop Nick Allen.",walk,380371
+316,686555,2025-06-20,caught_steal_2b,on_1b,382017,"Isaac Collins caught stealing 2nd base, catcher Christian Vázquez to second baseman Willi Castro.",walk,382020
+317,593428,2025-06-20,caught_steal_2b,on_1b,384392,"Xander Bogaerts caught stealing 2nd base, catcher Salvador Perez to shortstop Bobby Witt Jr.",walk,384397
+318,694192,2025-06-19,steal_2b,on_1b,386486,Christian Yelich called out on strikes. Jackson Chourio steals (14) 2nd base.,force_out,386491
+319,668930,2025-06-19,caught_steal_2b,on_1b,386551,"Rhys Hoskins strikes out swinging and Brice Turang caught stealing 2nd, catcher Carson Kelly to second baseman Nico Hoerner to catcher Carson Kelly.",force_out,386557
+320,663457,2025-06-19,caught_steal_2b,on_1b,387604,"Jordan Walker called out on strikes and Lars Nootbaar caught stealing 2nd, catcher Kyle Teel to second baseman Josh Rojas to catcher Kyle Teel.",single,387611
+321,696285,2025-06-19,caught_steal_2b,on_1b,388209,"Nationals challenged (tag play), call on the field was upheld: Jacob Young caught stealing 2nd base, catcher Hunter Goodman to shortstop Ryan Ritter.",single,388212
+322,681082,2025-06-19,caught_steal_2b,on_1b,388459,"Bryson Stott caught stealing 2nd base, catcher Nick Fortes to shortstop Otto Lopez.",single,388462
+323,671218,2025-06-19,caught_steal_2b,on_1b,389460,"Dominic Smith strikes out swinging and Heliot Ramos caught stealing 2nd, catcher Bo Naylor to shortstop Gabriel Arias to catcher Bo Naylor.",hit_by_pitch,389469
+324,666181,2025-06-18,caught_steal_2b,on_1b,389719,"Will Benson caught stealing 2nd base, catcher Christian Vázquez to second baseman Willi Castro.",single,389727
+325,683011,2025-06-18,caught_steal_2b,on_1b,390317,"Anthony Volpe caught stealing 2nd base, catcher Logan O'Hoppe to shortstop Zach Neto.",force_out,390318
+326,676609,2025-06-18,caught_steal_2b,on_1b,390735,"José Caballero caught stealing 2nd base, catcher Gary Sánchez to second baseman Jackson Holliday.",single,390737
+327,681297,2025-06-18,steal_2b,on_1b,390748,Cedric Mullins strikes out swinging. Colton Cowser steals (1) 2nd base.,hit_by_pitch,390757
+328,665489,2025-06-18,caught_steal_2b,on_1b,391251,"Alejandro Kirk strikes out swinging and Vladimir Guerrero Jr. caught stealing 2nd, catcher Jose Herrera to second baseman Ketel Marte to catcher Jose Herrera.",walk,391258
+329,664059,2025-06-18,caught_steal_2b,on_1b,391773,"Sam Haggerty caught stealing 2nd base, catcher Freddy Fermin to second baseman Jonathan India.",single,391776
+330,687401,2025-06-17,caught_steal_2b,on_1b,393348,"Cubs challenged (tag play), call on the field was overturned: Sal Frelick strikes out swinging and Joey Ortiz caught stealing 2nd, catcher Carson Kelly to shortstop Dansby Swanson to catcher Carson Kelly.",single,393356
+331,680577,2025-06-17,caught_steal_2b,on_1b,394503,"Brooks Lee strikes out swinging and DaShawn Keirsey Jr. caught stealing 2nd, catcher Tyler Stephenson to shortstop Elly De La Cruz to catcher Tyler Stephenson.",field_out,464498
+332,630105,2025-06-17,steal_2b,on_1b,396209,Tyler Wade called out on strikes. Jake Cronenworth steals (2) 2nd base.,single,396217
+333,676694,2025-06-17,caught_steal_2b,on_1b,396766,"Jake Meyers caught stealing 2nd base, catcher Austin Wynns to second baseman Luis Urías.",single,396770
+334,575929,2025-06-17,steal_home,on_3b,397220,"Cardinals challenged (tag play), call on the field was overturned: Nolan Arenado walks. Alec Burleson to 2nd. Willson Contreras steals (3) home. Alec Burleson to 2nd.",walk,397228
+335,687952,2025-06-15,caught_steal_2b,on_1b,399526,"Gavin Lux strikes out on a foul tip and Christian Encarnacion-Strand caught stealing 2nd, catcher Dillon Dingler to shortstop Javier Báez to catcher Dillon Dingler.",fielders_choice,399535
+336,683002,2025-06-15,caught_steal_2b,on_1b,400809,"Ramón Laureano strikes out swinging and Gunnar Henderson caught stealing 2nd, catcher Travis d'Arnaud to second baseman Luis Rengifo to catcher Travis d'Arnaud.",single,400812
+337,805249,2025-06-15,caught_steal_2b,on_1b,401288,"Blue Jays challenged (tag play), call on the field was overturned: Otto Kemp caught stealing 2nd base, catcher Alejandro Kirk to second baseman Andrés Giménez.",single,401297
+338,805249,2025-06-15,steal_2b,on_1b,401353,Brandon Marsh called out on strikes. Otto Kemp steals (1) 2nd base.,single,401360
+339,671732,2025-06-15,caught_steal_3b,on_2b,402108,"Lawrence Butler caught stealing 3rd base, catcher Freddy Fermin to third baseman Maikel Garcia.",double,402114
+340,687263,2025-06-14,caught_steal_2b,on_1b,403921,"Zach Neto caught stealing 2nd base, catcher Adley Rutschman to shortstop Gunnar Henderson.",force_out,403923
+341,666139,2025-06-14,caught_steal_2b,on_1b,404313,"Josh Lowe caught stealing 2nd base, catcher Luis Torrens to shortstop Francisco Lindor.",single,404314
+342,691176,2025-06-14,caught_steal_3b,on_2b,404829,"Jasson Domínguez picked off and caught stealing 3rd base, catcher Carlos Narváez to shortstop Trevor Story to third baseman Marcelo Mayer.",single,404837
+343,701538,2025-06-14,caught_steal_2b,on_1b,405127,"Jackson Merrill caught stealing 2nd base, catcher Gabriel Moreno to second baseman Ketel Marte. Manny Machado to 3rd.",intent_walk,405129
+344,686217,2025-06-14,steal_2b,on_1b,406202,Jackson Chourio strikes out swinging. Sal Frelick steals (14) 2nd base.,walk,406209
+345,596115,2025-06-13,steal_2b,on_1b,408878,Abraham Toro strikes out swinging. Trevor Story steals (11) 2nd base.,single,408883
+346,660670,2025-06-13,steal_2b,on_1b,409058,Alex Verdugo strikes out swinging. Ronald Acuña Jr. steals (1) 2nd base.,single,409064
+347,669364,2025-06-13,caught_steal_2b,on_1b,409528,"Nationals challenged (tag play), call on the field was overturned: Xavier Edwards caught stealing 2nd base, catcher Keibert Ruiz to second baseman Luis García Jr.",single,409530
+348,624428,2025-06-13,caught_steal_2b,on_1b,410896,"Ke'Bryan Hayes strikes out swinging and Adam Frazier caught stealing 2nd, catcher Reese McGuire to second baseman Nico Hoerner to catcher Reese McGuire.",single,410902
+349,665833,2025-06-12,caught_steal_2b,on_1b,413262,"Oneil Cruz caught stealing 2nd base, catcher Carson Kelly to second baseman Nico Hoerner.",walk,413264
+350,650489,2025-06-11,caught_steal_2b,on_1b,415554,"Carlos Correa called out on strikes and Willi Castro caught stealing 2nd, catcher Jonah Heim to second baseman Marcus Semien to catcher Jonah Heim.",single,415561
+351,663647,2025-06-11,steal_3b,on_2b,416613,Isiah Kiner-Falefa walks. Ke'Bryan Hayes to 3rd. Ke'Bryan Hayes steals (8) 3rd base. Ke'Bryan Hayes to 3rd.,single,416620
+352,666134,2025-06-11,caught_steal_2b,on_1b,417485,"Johnathan Rodríguez strikes out swinging and Nolan Jones caught stealing 2nd, catcher Jose Trevino to second baseman Matt McLain to catcher Jose Trevino.",walk,417493
+353,663728,2025-06-11,caught_steal_2b,on_1b,417721,"Cal Raleigh caught stealing 2nd base, catcher Jose Herrera to second baseman Ketel Marte.",single,417723
+354,666149,2025-06-11,caught_steal_2b,on_1b,417860,"Rockies challenged (tag play), call on the field was overturned: Logan Porter called out on strikes and Tyler Fitzgerald caught stealing 2nd, catcher Hunter Goodman to second baseman Thairo Estrada to catcher Hunter Goodman.",sac_bunt,417864
+355,676391,2025-06-11,caught_steal_2b,on_1b,418204,"Blue Jays challenged (tag play), call on the field was upheld: Ernie Clement caught stealing 2nd base, catcher Yohel Pozo to shortstop Masyn Winn.",double_play,418206
+356,572191,2025-06-10,caught_steal_3b,on_2b,420781,"Chase Meidroth strikes out swinging and Michael A. Taylor caught stealing 3rd, catcher Victor Caratini to third baseman Isaac Paredes to catcher Victor Caratini.",force_out,441071
+357,687263,2025-06-10,caught_steal_2b,on_1b,421808,"Zach Neto caught stealing 2nd base, catcher Austin Wynns to second baseman Luis Urías.",single,421812
+358,669364,2025-06-09,caught_steal_2b,on_1b,426304,"Pirates challenged (tag play), call on the field was overturned: Jesús Sánchez strikes out swinging and Xavier Edwards caught stealing 2nd, catcher Brett Sullivan to shortstop Jared Triolo to catcher Brett Sullivan.",single,426309
+359,696285,2025-06-08,caught_steal_2b,on_1b,426749,"Nasim Nuñez strikes out swinging and Jacob Young caught stealing 2nd, catcher Jonah Heim to second baseman Marcus Semien to catcher Jonah Heim.",single,426756
+360,805249,2025-06-08,caught_steal_2b,on_1b,426958,"Pirates challenged (tag play), call on the field was overturned: Brandon Marsh strikes out swinging and Otto Kemp caught stealing 2nd, catcher Henry Davis to shortstop Isiah Kiner-Falefa to catcher Henry Davis.",walk,426964
+361,656896,2025-06-08,steal_2b,on_1b,429004,"Emmanuel Rivera steals (1) 2nd base. Ramón Urías scores. Throwing error by catcher Jhonny Pereda on the pickoff attempt. Emmanuel Rivera out at 3rd, shortstop Jacob Wilson to third baseman Max Muncy.",walk,429007
+362,672356,2025-06-07,caught_steal_2b,on_1b,431989,"Gabriel Arias caught stealing 2nd base, catcher Yainer Diaz to shortstop Jeremy Peña.",hit_by_pitch,431995
+363,641355,2025-06-07,steal_3b,on_2b,432846,DJ LeMahieu walks. Cody Bellinger to 3rd. Cody Bellinger steals (6) 3rd base. Cody Bellinger to 3rd.,single,432854
+364,571970,2025-06-07,steal_2b,on_1b,433738,Andy Pages strikes out swinging. Max Muncy steals (3) 2nd base.,walk,433744
+365,665862,2025-06-06,caught_steal_3b,on_2b,435062,"Red Sox challenged (tag play), call on the field was overturned: Oswald Peraza walks. Jazz Chisholm Jr. caught stealing 3rd base, catcher Carlos Narváez to third baseman Abraham Toro.",single,435071
+366,592450,2025-06-06,steal_2b,on_1b,435219,Cody Bellinger strikes out swinging. Aaron Judge steals (5) 2nd base.,single,435224
+367,678554,2025-06-06,steal_2b,on_1b,435699,Taylor Walls strikes out swinging. Curtis Mead steals (3) 2nd base.,single,435705
+368,665161,2025-06-06,steal_2b,on_1b,436534,Jose Altuve strikes out swinging. Jeremy Peña steals (12) 2nd base.,single,436545
+369,691019,2025-06-06,caught_steal_home,on_3b,437662,"Kyle Teel caught stealing home, catcher Salvador Perez to second baseman Jonathan India to catcher Salvador Perez.",walk,437673
+370,694374,2025-06-05,caught_steal_2b,on_1b,439981,"Tim Tawa caught stealing 2nd base, catcher Drake Baldwin to shortstop Nick Allen.",force_out,439983
+371,694671,2025-06-05,caught_steal_2b,on_1b,442683,"Corey Seager strikes out swinging and Wyatt Langford caught stealing 2nd, catcher Danny Jansen to shortstop Taylor Walls to catcher Danny Jansen.",walk,442689
+372,593871,2025-06-05,steal_2b,on_1b,442951,Julio Rodríguez strikes out swinging. Jorge Polanco steals (2) 2nd base.,force_out,442956
+373,666971,2025-06-04,caught_steal_2b,on_1b,443278,"Lourdes Gurriel Jr. caught stealing 2nd base, catcher Sean Murphy to second baseman Ozzie Albies.",single,443279
+374,663538,2025-06-04,steal_2b,on_1b,444291,Michael Busch strikes out swinging. Nico Hoerner steals (13) 2nd base.,hit_by_pitch,444297
+375,663886,2025-06-04,caught_steal_2b,on_1b,445158,"Connor Joe strikes out swinging and Tyler Stephenson caught stealing 2nd, catcher Eric Haase to second baseman Brice Turang to catcher Eric Haase.",walk,445168
+376,663968,2025-06-03,steal_2b,on_1b,449039,"Kameron Misner called out on strikes. Jake Mangum to 3rd. Jake Mangum steals (9) 2nd base. Junior Caminero steals (4) home. Jake Mangum advances to 3rd, on a throwing error by catcher Kyle Higashioka.",single,449044
+377,691406,2025-06-03,steal_home,on_3b,449039,"Kameron Misner called out on strikes. Jake Mangum to 3rd. Jake Mangum steals (9) 2nd base. Junior Caminero steals (4) home. Jake Mangum advances to 3rd, on a throwing error by catcher Kyle Higashioka.",walk,449046
+378,671277,2025-06-03,caught_steal_2b,on_1b,450117,"Luis García Jr. caught stealing 2nd base, catcher Carson Kelly to shortstop Dansby Swanson.",single,450118
+379,630105,2025-06-02,caught_steal_2b,on_1b,451640,"Tyler Wade strikes out swinging and Jake Cronenworth caught stealing 2nd, catcher Patrick Bailey to shortstop Willy Adames to catcher Patrick Bailey.",single,451646
+380,596019,2025-06-02,steal_2b,on_1b,451718,Brandon Nimmo called out on strikes. Francisco Lindor steals (11) 2nd base.,single,451721
+381,665161,2025-06-01,steal_3b,on_2b,453833,Jose Altuve strikes out swinging. Jeremy Peña steals (10) 3rd base.,single,453839
+382,607208,2025-06-01,steal_2b,on_1b,454614,Alec Bohm called out on strikes. Trea Turner steals (15) 2nd base.,walk,454624
+383,665019,2025-06-01,caught_steal_2b,on_1b,456896,"Kody Clemens caught stealing 2nd base, catcher Cal Raleigh to second baseman Cole Young.",walk,456903
+384,677594,2025-05-31,caught_steal_2b,on_1b,461048,"Julio Rodríguez caught stealing 2nd base, catcher Christian Vázquez to second baseman Kody Clemens.",single,461049
+385,666149,2025-05-30,steal_2b,on_1b,463352,Mike Yastrzemski strikes out swinging. Tyler Fitzgerald steals (7) 2nd base.,single,463357
+386,656413,2025-05-29,caught_steal_2b,on_1b,466747,"Stuart Fairchild caught stealing 2nd base, catcher Rafael Marchán to shortstop Trea Turner.",single,466750
+387,681082,2025-05-29,caught_steal_2b,on_1b,466764,"Bryson Stott caught stealing 2nd base, catcher Sean Murphy to shortstop Luke Williams.",single,466771
+388,802415,2025-05-29,steal_3b,on_2b,467368,Kameron Misner strikes out swinging. Chandler Simpson steals (18) 3rd base. Chandler Simpson scores. Throwing error by catcher Yainer Diaz.,walk,467375
+389,664770,2025-05-28,steal_2b,on_1b,472078,Ali Sánchez strikes out swinging. Nathan Lukes steals (1) 2nd base.,single,472081
+390,805367,2025-05-27,caught_steal_2b,on_1b,474267,"Mike Tauchman called out on strikes and Chase Meidroth caught stealing 2nd, catcher Francisco Alvarez to shortstop Francisco Lindor to catcher Francisco Alvarez.",single,474275
+391,681082,2025-05-27,steal_2b,on_1b,474537,Edmundo Sosa strikes out swinging. Bryson Stott steals (11) 2nd base.,walk,474543
+392,592885,2025-05-27,steal_3b,on_2b,474682,Rhys Hoskins walks. Christian Yelich to 3rd. Christian Yelich steals (10) 3rd base. Christian Yelich to 3rd.,double,474686
+393,666018,2025-05-27,caught_steal_home,on_3b,475153,"Jonathan Aranda caught stealing home, catcher Ryan Jeffers to shortstop Carlos Correa to catcher Ryan Jeffers.",double,475167
+394,683011,2025-05-27,caught_steal_2b,on_1b,475263,"Anthony Volpe caught stealing 2nd base, catcher Travis d'Arnaud to second baseman Luis Rengifo.",walk,475270
+395,683002,2025-05-26,caught_steal_2b,on_1b,476891,"Gunnar Henderson caught stealing 2nd base, catcher Pedro Pagés to shortstop Masyn Winn.",force_out,476897
+396,660821,2025-05-26,caught_steal_2b,on_1b,479848,"Agustín Ramírez called out on strikes and Jesús Sánchez caught stealing 2nd, catcher Martín Maldonado to second baseman Jose Iglesias to catcher Martín Maldonado.",walk,479855
+397,650402,2025-05-25,caught_steal_2b,on_1b,480791,"Gleyber Torres caught stealing 2nd base, catcher Austin Hedges to shortstop Gabriel Arias.",walk,480802
+398,696030,2025-05-25,caught_steal_2b,on_1b,481663,"Adolis García strikes out swinging and Alejandro Osuna caught stealing 2nd, catcher Edgar Quero to second baseman Chase Meidroth to catcher Edgar Quero.",walk,481675
+399,682668,2025-05-25,steal_2b,on_1b,482649,Juan Soto strikes out swinging. Luisangel Acuña to 3rd. Luisangel Acuña steals (11) 2nd base. Luisangel Acuña to 3rd. Throwing error by catcher Will Smith.,single,482655
+400,663616,2025-05-25,caught_steal_2b,on_1b,482952,"Twins challenged (tag play), call on the field was upheld: Trevor Larnach caught stealing 2nd base, catcher Freddy Fermin to second baseman Michael Massey.",single,482960
+401,641313,2025-05-25,caught_steal_2b,on_1b,483712,"Tim Anderson caught stealing 2nd base, catcher Agustín Ramírez to second baseman Javier Sanoja.",single,483726
+402,679032,2025-05-25,caught_steal_2b,on_1b,484005,"Phillies challenged (tag play), call on the field was upheld: Johan Rojas caught stealing 2nd base, catcher Willie MacIver to shortstop Jacob Wilson.",field_out,488224
+403,702616,2025-05-24,steal_2b,on_1b,484519,Gunnar Henderson called out on strikes. Jackson Holliday steals (3) 2nd base.,single,484532
+404,663604,2025-05-24,steal_2b,on_1b,484814,Fernando Tatis Jr. strikes out on a foul tip. Brandon Lockridge steals (7) 2nd base.,hit_by_pitch,484817
+405,694192,2025-05-24,caught_steal_2b,on_1b,485545,"Brewers challenged (tag play), call on the field was upheld: William Contreras strikes out swinging and Jackson Chourio caught stealing 2nd, catcher Henry Davis to second baseman Adam Frazier to catcher Henry Davis.",single,485551
+406,702332,2025-05-24,caught_steal_2b,on_1b,485650,"Caleb Durbin caught stealing 2nd base, catcher Henry Davis to shortstop Isiah Kiner-Falefa.",single,485655
+407,666185,2025-05-24,caught_steal_2b,on_1b,486775,"Dylan Carlson caught stealing 2nd base, catcher Connor Wong to shortstop Trevor Story.",single,486786
+408,593428,2025-05-23,steal_2b,on_1b,489410,Gavin Sheets strikes out swinging. Xander Bogaerts steals (9) 2nd base.,walk,489413
+409,592518,2025-05-23,caught_steal_2b,on_1b,489436,"Manny Machado caught stealing 2nd base, catcher Sean Murphy to shortstop Nick Allen.",fielders_choice_out,489440
+410,670770,2025-05-23,caught_steal_2b,on_1b,489760,"TJ Friedl caught stealing 2nd base, catcher Carson Kelly to second baseman Nico Hoerner to first baseman Michael Busch.",single,489761
+411,670764,2025-05-23,caught_steal_2b,on_1b,490036,"Taylor Walls caught stealing 2nd base, catcher Alejandro Kirk to shortstop Bo Bichette.",sac_fly,501066
+412,624428,2025-05-23,caught_steal_2b,on_1b,491031,"Adam Frazier caught stealing 2nd base, catcher William Contreras to second baseman Brice Turang.",single,491039
+413,578428,2025-05-22,caught_steal_2b,on_1b,495168,"Jose Iglesias caught stealing 2nd base, catcher Tyler Heineman to shortstop Bo Bichette.",single,495170
+414,666181,2025-05-21,caught_steal_2b,on_1b,496690,"Will Benson caught stealing 2nd base, catcher Henry Davis to shortstop Isiah Kiner-Falefa.",hit_by_pitch,496693
+415,641355,2025-05-20,caught_steal_2b,on_1b,500943,"Cody Bellinger caught stealing 2nd base, catcher Jonah Heim to second baseman Marcus Semien.",single,500956
+416,669701,2025-05-20,caught_steal_2b,on_1b,501049,"Josh Jung called out on strikes and Josh Smith caught stealing 2nd, catcher Austin Wells to second baseman DJ LeMahieu to catcher Austin Wells.",strikeout,501059
+417,656582,2025-05-20,caught_steal_2b,on_1b,501479,"Santiago Espinal strikes out on a foul tip and Connor Joe caught stealing 2nd, catcher Joey Bart to second baseman Adam Frazier to catcher Joey Bart.",single,501489
+418,686668,2025-05-20,steal_2b,on_1b,502929,Kyle Farmer called out on strikes. Brenton Doyle steals (5) 2nd base.,walk,502932
+419,695578,2025-05-20,caught_steal_2b,on_1b,503202,"Nathaniel Lowe called out on strikes and James Wood caught stealing 2nd, catcher Sean Murphy to shortstop Nick Allen to catcher Sean Murphy.",single,503211
+420,694374,2025-05-20,steal_2b,on_1b,503668,Corbin Carroll strikes out swinging. Tim Tawa steals (5) 2nd base.,single,503677
+421,672580,2025-05-20,caught_steal_2b,on_1b,504126,"Cavan Biggio strikes out swinging and Maikel Garcia caught stealing 2nd, catcher Patrick Bailey to shortstop Willy Adames to catcher Patrick Bailey.",single,504132
+422,682985,2025-05-19,caught_steal_2b,on_1b,504756,"Spencer Torkelson strikes out swinging and Riley Greene caught stealing 2nd, catcher Pedro Pagés to second baseman Brendan Donovan to catcher Pedro Pagés.",single,504762
+423,670623,2025-05-19,caught_steal_2b,on_1b,505877,"Isaac Paredes caught stealing 2nd base, catcher Danny Jansen to second baseman Brandon Lowe.",single,505887
+424,805367,2025-05-19,steal_2b,on_1b,506138,Matt Thaiss strikes out swinging. Chase Meidroth steals (6) 2nd base.,single,506144
+425,668709,2025-05-19,caught_steal_2b,on_1b,507287,"JJ Bleday caught stealing 2nd base, catcher Logan O'Hoppe to shortstop Zach Neto.",single,507292
+426,666152,2025-05-18,steal_2b,on_1b,508635,"David Hamilton steals (8) 2nd base. David Hamilton out at 3rd, shortstop Nick Allen to third baseman Austin Riley.",single,508636
+427,660688,2025-05-18,caught_steal_2b,on_1b,509303,"Keibert Ruiz caught stealing 2nd base, catcher Adley Rutschman to shortstop Gunnar Henderson.",single,509306
+428,672695,2025-05-18,steal_2b,on_1b,510132,Alek Thomas strikes out swinging. Geraldo Perdomo steals (11) 2nd base.,single,510136
+429,672580,2025-05-18,caught_steal_2b,on_1b,511665,"Maikel Garcia caught stealing 2nd base, catcher Yohel Pozo to second baseman Brendan Donovan.",single,511670
+430,680776,2025-05-17,caught_steal_2b,on_1b,512211,"Jarren Duran caught stealing 2nd base, catcher Drake Baldwin to shortstop Nick Allen.",single,512213
+431,608070,2025-05-17,caught_steal_2b,on_1b,512702,"José Ramírez caught stealing 2nd base, catcher Jose Trevino to shortstop Elly De La Cruz.",single,512706
+432,650859,2025-05-17,caught_steal_2b,on_1b,514664,"Matthew Lugo strikes out swinging and Luis Rengifo caught stealing 2nd, catcher Dalton Rushing to second baseman Miguel Rojas to catcher Dalton Rushing.",single,514667
+433,666149,2025-05-17,caught_steal_2b,on_1b,515833,"Mike Yastrzemski called out on strikes and Tyler Fitzgerald caught stealing 2nd, catcher Shea Langeliers to shortstop Jacob Wilson to catcher Shea Langeliers.",single,515839
+434,593428,2025-05-17,steal_2b,on_1b,516165,Gavin Sheets strikes out swinging. Xander Bogaerts steals (7) 2nd base.,single,516169
+435,646240,2025-05-16,caught_steal_2b,on_1b,516565,"Rafael Devers caught stealing 2nd base, catcher Sean Murphy to second baseman Ozzie Albies to first baseman Matt Olson.",walk,516571
+436,702616,2025-05-16,caught_steal_2b,on_1b,516652,"Orioles challenged (tag play), call on the field was upheld: Cedric Mullins called out on strikes and Jackson Holliday caught stealing 2nd, catcher Keibert Ruiz to shortstop CJ Abrams to catcher Keibert Ruiz.",single,516658
+437,696285,2025-05-16,caught_steal_2b,on_1b,516823,"Jacob Young caught stealing 2nd base, catcher Adley Rutschman to second baseman Jackson Holliday.",single,516827
+438,669720,2025-05-16,steal_2b,on_1b,518303,Gavin Lux strikes out swinging. Austin Hays steals (2) 2nd base.,single,518309
+439,668930,2025-05-16,steal_3b,on_2b,519648,Rhys Hoskins walks. Brice Turang to 3rd. Brice Turang steals (11) 3rd base. Brice Turang to 3rd.,single,519663
+440,668930,2025-05-16,steal_2b,on_1b,519655,Christian Yelich strikes out swinging. Brice Turang steals (10) 2nd base.,single,519663
+441,641933,2025-05-14,steal_2b,on_1b,524366,Cedric Mullins called out on strikes. Tyler O'Neill to 3rd. Tyler O'Neill steals (2) 2nd base. Tyler O'Neill to 3rd. Throwing error by catcher Christian Vázquez.,field_error,524372
+442,592206,2025-05-14,steal_2b,on_1b,525159,Max Kepler strikes out swinging. Nick Castellanos steals (1) 2nd base.,single,525165
+443,665161,2025-05-14,caught_steal_2b,on_1b,525701,"Jose Altuve strikes out swinging and Jeremy Peña caught stealing 2nd, catcher Salvador Perez to second baseman Michael Massey to catcher Salvador Perez.",single,525708
+444,669127,2025-05-14,steal_2b,on_1b,526563,Miguel Andujar strikes out swinging. Shea Langeliers steals (2) 2nd base.,single,526573
+445,630105,2025-05-14,steal_2b,on_1b,527341,Brandon Lockridge strikes out swinging. Jake Cronenworth steals (1) 2nd base.,single,527345
+446,656582,2025-05-13,caught_steal_3b,on_2b,527608,"Will Benson walks. Connor Joe caught stealing 3rd base, catcher Edgar Quero to third baseman Miguel Vargas.",double,527614
+447,663647,2025-05-13,steal_2b,on_1b,528282,Jared Triolo strikes out swinging. Ke'Bryan Hayes steals (5) 2nd base.,single,528289
+448,663586,2025-05-13,caught_steal_2b,on_1b,528506,"Matt Olson strikes out swinging and Austin Riley caught stealing 2nd, catcher Keibert Ruiz to shortstop CJ Abrams to catcher Keibert Ruiz.",single,528512
+449,671739,2025-05-13,caught_steal_2b,on_1b,528540,"Nationals challenged (tag play), call on the field was overturned: Michael Harris II caught stealing 2nd base, catcher Keibert Ruiz to second baseman José Tena.",walk,528541
+450,681481,2025-05-13,steal_2b,on_1b,528995,Gleyber Torres strikes out swinging. Kerry Carpenter steals (1) 2nd base.,single,529001
+451,670764,2025-05-13,caught_steal_2b,on_1b,529793,"With Danny Jansen batting, Taylor Walls picked off and caught stealing 2nd base, shortstop Bo Bichette.",walk,529799
+452,676694,2025-05-13,caught_steal_2b,on_1b,530635,"Royals challenged (tag play), call on the field was overturned: Jake Meyers caught stealing 2nd base, catcher Freddy Fermin to second baseman Jonathan India.",single,530639
+453,656305,2025-05-13,caught_steal_2b,on_1b,530813,"Matt Chapman caught stealing 2nd base, catcher Gabriel Moreno to second baseman Ketel Marte.",walk,530822
+454,573262,2025-05-13,steal_2b,on_1b,530962,Matt Chapman strikes out swinging. Mike Yastrzemski steals (5) 2nd base.,single,530968
+455,656555,2025-05-12,steal_2b,on_1b,531675,Jake Bauers strikes out swinging. Rhys Hoskins steals (2) 2nd base.,walk,531681
+456,673548,2025-05-12,caught_steal_2b,on_1b,532404,"Seiya Suzuki caught stealing 2nd base, catcher Liam Hicks to second baseman Ronny Simon.",walk,532414
+457,694497,2025-05-12,steal_2b,on_1b,533328,Wyatt Langford strikes out swinging. Evan Carter steals (2) 2nd base.,walk,533334
+458,572191,2025-05-11,steal_2b,on_1b,535811,Chase Meidroth strikes out swinging. Michael A. Taylor steals (5) 2nd base.,single,535816
+459,663457,2025-05-11,caught_steal_2b,on_1b,536936,"Lars Nootbaar caught stealing 2nd base, catcher Riley Adams to shortstop CJ Abrams.",walk,536944
+460,663728,2025-05-11,caught_steal_2b,on_1b,537485,"Cal Raleigh caught stealing 2nd base, catcher Alejandro Kirk to second baseman Ernie Clement.",walk,537488
+461,573262,2025-05-11,steal_2b,on_1b,537943,Willy Adames strikes out swinging. Mike Yastrzemski steals (4) 2nd base.,single,537950
+462,573262,2025-05-11,steal_2b,on_1b,538105,Willy Adames strikes out swinging. Mike Yastrzemski steals (3) 2nd base.,single,538109
+463,682998,2025-05-11,caught_steal_2b,on_1b,538570,"Corbin Carroll caught stealing 2nd base, catcher Will Smith to shortstop Mookie Betts.",walk,538573
+464,608070,2025-05-10,caught_steal_2b,on_1b,539657,"José Ramírez caught stealing 2nd base, catcher J.T. Realmuto to second baseman Bryson Stott.",walk,539661
+465,596019,2025-05-10,steal_2b,on_1b,539815,Juan Soto strikes out swinging. Francisco Lindor steals (6) 2nd base.,single,539820
+466,672820,2025-05-10,steal_2b,on_1b,540995,Brooks Baldwin strikes out swinging. Lenyn Sosa steals (1) 2nd base.,single,541001
+467,681393,2025-05-10,steal_2b,on_1b,541166,Ronny Simon strikes out swinging. Connor Norby steals (3) 2nd base.,single,541172
+468,592192,2025-05-10,caught_steal_2b,on_1b,541433,"Mark Canha caught stealing 2nd base, catcher Carlos Narváez to second baseman Kristian Campbell.",single,541434
+469,621438,2025-05-09,steal_2b,on_1b,543706,Francisco Lindor strikes out swinging. Tyrone Taylor steals (3) 2nd base.,single,543711
+470,691718,2025-05-09,caught_steal_2b,on_1b,543725,"Pete Crow-Armstrong caught stealing 2nd base, catcher Francisco Alvarez to second baseman Luisangel Acuña.",walk,543729
+471,607208,2025-05-09,caught_steal_2b,on_1b,544194,"Bryce Harper called out on strikes and Trea Turner caught stealing 2nd, catcher Bo Naylor to shortstop Gabriel Arias to catcher Bo Naylor.",single,544200
+472,664034,2025-05-09,steal_2b,on_1b,545674,Brooks Lee strikes out swinging. Ty France steals (1) 2nd base.,single,545681
+473,621439,2025-05-08,steal_2b,on_1b,548374,Brooks Lee called out on strikes. Byron Buxton steals (8) 2nd base.,walk,548383
+474,670764,2025-05-08,caught_steal_2b,on_1b,548719,"Rays challenged (tag play), call on the field was upheld: Yandy Díaz called out on strikes and Taylor Walls caught stealing 2nd, catcher J.T. Realmuto to second baseman Bryson Stott to catcher J.T. Realmuto.",single,548726
+475,678554,2025-05-08,caught_steal_2b,on_1b,548967,"Curtis Mead caught stealing 2nd base, catcher J.T. Realmuto to second baseman Bryson Stott.",single,548979
+476,694362,2025-05-08,caught_steal_2b,on_1b,549329,"Reds challenged (tag play), call on the field was upheld: Blake Dunn caught stealing 2nd base, catcher Drake Baldwin to second baseman Ozzie Albies.",fielders_choice_out,549333
+477,666134,2025-05-07,caught_steal_2b,on_1b,550745,"Nolan Jones caught stealing 2nd base, catcher Keibert Ruiz to shortstop CJ Abrams.",walk,550752
+478,700242,2025-05-07,caught_steal_2b,on_1b,553315,"Rockies challenged (tag play), call on the field was overturned: Trey Sweeney caught stealing 2nd base, catcher Hunter Goodman to shortstop Alan Trejo.",single,553325
+479,686797,2025-05-07,caught_steal_2b,on_1b,553845,"Brooks Lee caught stealing 2nd base, catcher Adley Rutschman to second baseman Jackson Holliday.",single,553848
+480,702616,2025-05-07,caught_steal_2b,on_1b,553991,"Twins challenged (tag play), call on the field was overturned: Jackson Holliday caught stealing 2nd base, catcher Ryan Jeffers to second baseman Kody Clemens.",walk,553992
+481,694384,2025-05-07,caught_steal_2b,on_1b,554584,"Nolan Schanuel caught stealing 2nd base, catcher Alejandro Kirk to second baseman Andrés Giménez.",single,554594
+482,682928,2025-05-06,caught_steal_2b,on_1b,554820,"CJ Abrams caught stealing 2nd base, catcher Austin Hedges to shortstop Brayan Rocchio.",walk,554823
+483,667472,2025-05-06,caught_steal_2b,on_1b,555927,"Dane Myers caught stealing 2nd base, catcher Will Smith to shortstop Miguel Rojas.",single,555928
+484,687363,2025-05-06,caught_steal_2b,on_1b,557336,"Victor Scott II caught stealing 2nd base, catcher Henry Davis to second baseman Liover Peguero.",single,557344
+485,677951,2025-05-05,steal_2b,on_1b,560422,Vinnie Pasquantino strikes out swinging. Bobby Witt Jr. steals (11) 2nd base.,single,560427
+486,805367,2025-05-05,steal_2b,on_1b,560535,Edgar Quero strikes out swinging. Chase Meidroth steals (3) 2nd base.,single,560545
+487,686555,2025-05-05,caught_steal_2b,on_1b,560802,"William Contreras strikes out swinging and Isaac Collins caught stealing 2nd, catcher Yainer Diaz to second baseman Mauricio Dubón to catcher Yainer Diaz.",single,560808
+488,663853,2025-05-04,steal_2b,on_1b,562224,David Hamilton called out on strikes. Romy Gonzalez steals (3) 2nd base.,hit_by_pitch,562228
+489,663616,2025-05-04,caught_steal_2b,on_1b,562377,"Trevor Larnach caught stealing 2nd base, catcher Carlos Narváez to second baseman Kristian Campbell.",field_error,562379
+490,682829,2025-05-03,caught_steal_2b,on_1b,567051,"Reds challenged (tag play), call on the field was upheld: Gavin Lux called out on strikes and Elly De La Cruz caught stealing 2nd, catcher Riley Adams to shortstop CJ Abrams to catcher Riley Adams.",single,567054
+491,694671,2025-05-03,caught_steal_2b,on_1b,569273,"Corey Seager strikes out on a foul tip and Wyatt Langford caught stealing 2nd, catcher Cal Raleigh to shortstop J.P. Crawford to catcher Cal Raleigh.",single,569282
+492,650859,2025-05-03,steal_2b,on_1b,569665,Gustavo Campero strikes out on a foul tip. Luis Rengifo steals (1) 2nd base.,single,569670
+493,664770,2025-05-03,caught_steal_2b,on_1b,570632,"Tyler Heineman strikes out swinging and Nathan Lukes caught stealing 2nd, catcher Austin Hedges to shortstop Brayan Rocchio to catcher Austin Hedges.",walk,570637
+494,666397,2025-05-02,caught_steal_2b,on_1b,571899,"Edouard Julien caught stealing 2nd base, catcher Connor Wong to second baseman David Hamilton.",walk,571906
+495,664056,2025-05-01,caught_steal_2b,on_1b,574895,"Harrison Bader caught stealing 2nd base, catcher Bo Naylor to second baseman Daniel Schneemann.",single,574898
+496,682177,2025-05-01,caught_steal_2b,on_1b,575167,"Guardians challenged (tag play), call on the field was upheld: Brayan Rocchio strikes out swinging and Daniel Schneemann caught stealing 2nd, catcher Christian Vázquez to shortstop Carlos Correa to catcher Christian Vázquez.",walk,575178
+497,673357,2025-05-01,steal_2b,on_1b,577932,Edgar Quero strikes out swinging. Luis Robert Jr. to 3rd. Luis Robert Jr. steals (13) 2nd base. Luis Robert Jr. to 3rd. Throwing error by catcher Eric Haase.,single,577937
+498,691026,2025-04-30,steal_2b,on_1b,578098,Nolan Arenado strikes out swinging. Masyn Winn steals (2) 2nd base.,walk,578109
+499,656811,2025-04-30,caught_steal_2b,on_1b,579405,"Orioles challenged (tag play), call on the field was upheld: Ramón Laureano strikes out swinging and Ryan O'Hearn caught stealing 2nd, catcher Austin Wells to second baseman Pablo Reyes to catcher Austin Wells.",walk,579411
+500,677008,2025-04-30,steal_2b,on_1b,579520,Ramón Urías strikes out swinging. Heston Kjerstad steals (1) 2nd base.,single,579527
+501,677951,2025-04-30,caught_steal_2b,on_1b,580179,"Bobby Witt Jr. caught stealing 2nd base, catcher Danny Jansen to shortstop Taylor Walls.",fielders_choice_out,580181
+502,664728,2025-04-30,steal_2b,on_1b,580182,Jonathan India strikes out swinging. Kyle Isbel steals (1) 2nd base.,single,580187
+503,673357,2025-04-30,caught_steal_2b,on_1b,580587,"Luis Robert Jr. caught stealing 2nd base, catcher William Contreras to shortstop Joey Ortiz.",single,580588
+504,665487,2025-04-30,caught_steal_2b,on_1b,582000,"Manny Machado called out on strikes and Fernando Tatis Jr. caught stealing 2nd, catcher Patrick Bailey to second baseman Tyler Fitzgerald to catcher Patrick Bailey.",single,582008
+505,687263,2025-04-30,caught_steal_2b,on_1b,582125,"Zach Neto caught stealing 2nd base, catcher Mitch Garver to shortstop J.P. Crawford.",single,582129
+506,663728,2025-04-30,steal_3b,on_2b,582208,Randy Arozarena strikes out swinging. Cal Raleigh steals (4) 3rd base. Cal Raleigh scores. Throwing error by catcher Logan O'Hoppe.,field_error,582216
+507,666182,2025-04-29,caught_steal_3b,on_2b,584563,"Anthony Santander walks. Bo Bichette caught stealing 3rd base, catcher Carlos Narváez to third baseman Alex Bregman.",single,584574
+508,687401,2025-04-29,steal_2b,on_1b,584991,Isaac Collins strikes out swinging. Joey Ortiz steals (4) 2nd base.,single,584998
+509,668930,2025-04-29,caught_steal_2b,on_1b,585073,"Brice Turang caught stealing 2nd base, catcher Edgar Quero to second baseman Lenyn Sosa.",walk,585075
+510,680776,2025-04-27,caught_steal_2b,on_1b,589873,"Jarren Duran caught stealing 2nd base, catcher Bo Naylor to shortstop Brayan Rocchio.",single,589875
+511,701762,2025-04-27,caught_steal_2b,on_1b,591923,"Max Schuemann strikes out swinging and Nick Kurtz caught stealing 2nd, catcher Matt Thaiss to second baseman Lenyn Sosa to catcher Matt Thaiss.",single,591930
+512,672695,2025-04-27,steal_3b,on_2b,592415,Pavin Smith walks. Geraldo Perdomo to 3rd. Geraldo Perdomo steals (6) 3rd base. Geraldo Perdomo to 3rd.,fielders_choice_out,592421
+513,596019,2025-04-26,caught_steal_2b,on_1b,595030,"Nationals challenged (tag play), call on the field was overturned: Juan Soto strikes out swinging and Francisco Lindor caught stealing 2nd, catcher Keibert Ruiz to shortstop CJ Abrams to catcher Keibert Ruiz.",single,595037
+514,676059,2025-04-26,caught_steal_2b,on_1b,595633,"Jordan Westburg caught stealing 2nd base, catcher Dillon Dingler to shortstop Trey Sweeney.",single,595637
+515,686475,2025-04-26,steal_2b,on_1b,595687,"Astros challenged (tag play), call on the field was upheld: Maikel Garcia called out on strikes. Tyler Tolbert steals (6) 2nd base.",field_out,633285
+516,691182,2025-04-26,steal_2b,on_1b,597641,Brenton Doyle strikes out swinging. Adael Amador steals (1) 2nd base.,single,597647
+517,691406,2025-04-26,steal_2b,on_1b,597937,Jonathan Aranda strikes out swinging. Junior Caminero steals (1) 2nd base.,field_error,597944
+518,677951,2025-04-25,caught_steal_2b,on_1b,598747,"Bobby Witt Jr. caught stealing 2nd base, catcher Victor Caratini to shortstop Jeremy Peña.",single,598750
+519,665862,2025-04-25,caught_steal_2b,on_1b,599257,"Jazz Chisholm Jr. caught stealing 2nd base, catcher Alejandro Kirk to second baseman Andrés Giménez.",single,599261
+520,682928,2025-04-25,steal_2b,on_1b,599777,James Wood strikes out swinging. CJ Abrams steals (5) 2nd base.,single,599781
+521,677588,2025-04-25,caught_steal_2b,on_1b,599913,"José Tena caught stealing 2nd base, catcher Francisco Alvarez to shortstop Francisco Lindor.",single,599915
+522,691718,2025-04-25,steal_2b,on_1b,600233,Carson Kelly called out on strikes. Pete Crow-Armstrong steals (11) 2nd base.,single,600240
+523,681082,2025-04-25,steal_2b,on_1b,600305,Bryce Harper strikes out swinging. Bryson Stott steals (5) 2nd base.,walk,600318
+524,670042,2025-04-25,caught_steal_2b,on_1b,601683,"Luke Raley caught stealing 2nd base, catcher Liam Hicks to shortstop Xavier Edwards.",single,601685
+525,673962,2025-04-25,caught_steal_2b,on_1b,602193,"Giants challenged (tag play), call on the field was overturned: Jake Burger called out on strikes and Josh Jung caught stealing 2nd, catcher Patrick Bailey to second baseman Tyler Fitzgerald to catcher Patrick Bailey.",single,602204
+526,668930,2025-04-24,caught_steal_3b,on_2b,603175,"Giants challenged (tag play), call on the field was overturned: Brice Turang caught stealing 3rd base, catcher Sam Huff to third baseman Matt Chapman.",single,603179
+527,669003,2025-04-24,steal_2b,on_1b,603268,Vinny Capra strikes out swinging. Garrett Mitchell steals (2) 2nd base.,walk,603272
+528,702616,2025-04-24,steal_2b,on_1b,603371,Cedric Mullins called out on strikes. Jackson Holliday steals (2) 2nd base.,hit_by_pitch,603377
+529,665487,2025-04-23,caught_steal_3b,on_2b,605525,"Fernando Tatis Jr. caught stealing 3rd base, catcher Dillon Dingler to third baseman Andy Ibáñez.",field_error,605535
+530,669394,2025-04-23,caught_steal_2b,on_1b,609143,"Jake Burger caught stealing 2nd base, catcher Shea Langeliers to second baseman Luis Urías.",force_out,609147
+531,670156,2025-04-22,caught_steal_2b,on_1b,609758,"Miles Mastrobuoni caught stealing 2nd base, catcher Carlos Narváez to shortstop Trevor Story.",walk,609762
+532,650402,2025-04-22,steal_2b,on_1b,610711,Riley Greene strikes out swinging. Gleyber Torres steals (3) 2nd base.,walk,610716
+533,663656,2025-04-22,steal_2b,on_1b,611004,Seiya Suzuki strikes out swinging. Kyle Tucker steals (6) 2nd base.,single,611009
+534,802415,2025-04-22,steal_2b,on_1b,612962,Brandon Lowe strikes out swinging. Chandler Simpson steals (2) 2nd base.,single,612967
+535,573262,2025-04-21,caught_steal_2b,on_1b,615573,"Willy Adames strikes out swinging and Mike Yastrzemski caught stealing 2nd, catcher William Contreras to second baseman Brice Turang to catcher William Contreras.",walk,615579
+536,679032,2025-04-20,caught_steal_3b,on_2b,617014,"Johan Rojas caught stealing 3rd base, catcher Rob Brantly to third baseman Connor Norby.",single,617022
+537,677951,2025-04-20,caught_steal_2b,on_1b,617314,"Bobby Witt Jr. caught stealing 2nd base, catcher Dillon Dingler to second baseman Gleyber Torres.",single,617326
+538,664238,2025-04-20,caught_steal_2b,on_1b,618440,"Cal Raleigh strikes out swinging and Dylan Moore caught stealing 2nd, catcher Tyler Heineman to second baseman Andrés Giménez to catcher Tyler Heineman.",single,618451
+539,694374,2025-04-20,steal_2b,on_1b,619833,Jose Herrera strikes out swinging. Tim Tawa steals (2) 2nd base.,walk,619842
+540,605137,2025-04-20,caught_steal_2b,on_1b,620046,"Josh Bell caught stealing 2nd base, catcher Braxton Fulford to shortstop Kyle Farmer.",walk,620049
+541,694671,2025-04-20,caught_steal_2b,on_1b,620168,"Rangers challenged (tag play), call on the field was upheld: Wyatt Langford caught stealing 2nd base, catcher Will Smith to second baseman Miguel Rojas.",single,620179
+542,694671,2025-04-20,steal_2b,on_1b,620362,Josh Jung called out on strikes. Wyatt Langford steals (3) 2nd base.,walk,620371
+543,666149,2025-04-20,steal_2b,on_1b,620471,David Villar strikes out swinging. Tyler Fitzgerald steals (5) 2nd base.,walk,620477
+544,608324,2025-04-19,caught_steal_2b,on_1b,621411,"Alex Bregman caught stealing 2nd base, catcher Edgar Quero to second baseman Lenyn Sosa.",walk,621416
+545,682829,2025-04-19,steal_2b,on_1b,621750,Austin Hays strikes out swinging. Elly De La Cruz steals (5) 2nd base.,single,621753
+546,670770,2025-04-19,steal_2b,on_1b,621838,Matt McLain strikes out on a foul tip. TJ Friedl steals (3) 2nd base.,walk,621844
+547,676391,2025-04-19,caught_steal_2b,on_1b,622418,"Ernie Clement caught stealing 2nd base, catcher Cal Raleigh to second baseman Dylan Moore.",single,622424
+548,592450,2025-04-19,caught_steal_2b,on_1b,623297,"Austin Wells strikes out swinging and Aaron Judge caught stealing 2nd, catcher Ben Rortvedt to shortstop José Caballero to catcher Ben Rortvedt.",single,623301
+549,667670,2025-04-19,caught_steal_2b,on_1b,624100,"Tyler Soderstrom strikes out swinging and Brent Rooker caught stealing 2nd, catcher William Contreras to shortstop Joey Ortiz to catcher William Contreras.",force_out,624107
+550,665828,2025-04-18,caught_steal_2b,on_1b,627075,"Rays challenged (tag play), call on the field was overturned: Oswaldo Cabrera caught stealing 2nd base, catcher Danny Jansen to shortstop Taylor Walls.",single,627085
+551,660757,2025-04-18,caught_steal_home,on_3b,628143,"Oscar Gonzalez caught stealing home, catcher Yainer Diaz to second baseman Brendan Rodgers to catcher Yainer Diaz to third baseman Isaac Paredes to catcher Yainer Diaz.",single,628153
+552,687957,2025-04-18,caught_steal_2b,on_1b,628583,"Jake Burger strikes out swinging and Dustin Harris caught stealing 2nd, catcher Will Smith to second baseman Tommy Edman to catcher Will Smith.",single,628586
+553,641584,2025-04-17,caught_steal_2b,on_1b,630531,"Jake Fraley caught stealing 2nd base, catcher Cal Raleigh to shortstop J.P. Crawford.",single,630534
+554,669364,2025-04-16,caught_steal_2b,on_1b,632855,"Jesús Sánchez strikes out swinging and Xavier Edwards caught stealing 2nd, catcher Gabriel Moreno to shortstop Geraldo Perdomo to catcher Gabriel Moreno.",single,632862
+555,672580,2025-04-16,caught_steal_2b,on_1b,633248,"Maikel Garcia caught stealing 2nd base, catcher Austin Wells to shortstop Anthony Volpe.",walk,633250
+556,666624,2025-04-16,caught_steal_2b,on_1b,633876,"Christopher Morel caught stealing 2nd base, catcher Carlos Narváez to second baseman David Hamilton.",single,633887
+557,665926,2025-04-16,steal_2b,on_1b,634091,Alejandro Kirk strikes out swinging. Andrés Giménez steals (6) 2nd base.,force_out,634095
+558,664023,2025-04-16,caught_steal_2b,on_1b,636074,"Cubs challenged (tag play), call on the field was upheld: Ian Happ caught stealing 2nd base, catcher Elias Díaz to shortstop Xander Bogaerts.",single,636090
+559,682657,2025-04-15,steal_2b,on_1b,637257,Bo Naylor strikes out swinging. Angel Martínez steals (1) 2nd base.,single,637263
+560,668227,2025-04-15,steal_3b,on_2b,637660,Mitch Garver walks. Randy Arozarena to 3rd. Randy Arozarena steals (5) 3rd base. Randy Arozarena to 3rd.,single,637666
+561,673237,2025-04-15,caught_steal_2b,on_1b,639621,"Yainer Diaz caught stealing 2nd base, catcher Pedro Pagés to second baseman Brendan Donovan.",force_out,639624
+562,621493,2025-04-15,caught_steal_2b,on_1b,640168,"Luis Rengifo called out on strikes and Taylor Ward caught stealing 2nd, catcher Kyle Higashioka to shortstop Corey Seager to catcher Kyle Higashioka.",force_out,640174
+563,518692,2025-04-15,caught_steal_2b,on_1b,640866,"Freddie Freeman caught stealing 2nd base, catcher Jacob Stallings to shortstop Ezequiel Tovar.",walk,640870
+564,676801,2025-04-14,caught_steal_2b,on_1b,642129,"Chas McCormick caught stealing 2nd base, catcher Pedro Pagés to second baseman Nolan Gorman.",walk,642133
+565,668804,2025-04-14,caught_steal_2b,on_1b,643239,"Andrew McCutchen strikes out swinging and Bryan Reynolds caught stealing 2nd, catcher Keibert Ruiz to second baseman Luis García Jr. to catcher Keibert Ruiz.",single,643245
+566,656811,2025-04-13,steal_2b,on_1b,644247,Jordan Westburg called out on strikes. Ryan O'Hearn steals (1) 2nd base.,force_out,644254
+567,671739,2025-04-13,steal_2b,on_1b,644945,Austin Riley strikes out swinging. Michael Harris II steals (2) 2nd base.,force_out,644951
+568,676609,2025-04-13,steal_2b,on_1b,645024,Danny Jansen strikes out swinging. José Caballero steals (5) 2nd base.,walk,645030
+569,650333,2025-04-12,caught_steal_home,on_3b,650097,"Luis Arraez caught stealing home, catcher Jacob Stallings to second baseman Kyle Farmer to catcher Jacob Stallings to third baseman Ryan McMahon.",single,650106
+570,641658,2025-04-12,caught_steal_2b,on_1b,650746,"Corbin Carroll strikes out swinging and Garrett Hampson caught stealing 2nd, catcher William Contreras to shortstop Joey Ortiz to catcher William Contreras.",single,650753
+571,668709,2025-04-12,caught_steal_2b,on_1b,651783,"JJ Bleday caught stealing 2nd base, catcher Hayden Senger to second baseman Brett Baty.",single,651786
+572,671221,2025-04-11,caught_steal_2b,on_1b,652709,"Drew Waters caught stealing 2nd base, catcher Austin Hedges to second baseman Gabriel Arias.",single,652712
+573,663457,2025-04-11,steal_2b,on_1b,654779,Brendan Donovan strikes out swinging. Lars Nootbaar steals (1) 2nd base.,walk,654790
+574,666969,2025-04-11,steal_2b,on_1b,655828,Joc Pederson strikes out swinging. Adolis García steals (3) 2nd base.,walk,655832
+575,547180,2025-04-10,steal_2b,on_1b,656718,Nick Castellanos strikes out swinging. Bryce Harper steals (2) 2nd base.,walk,656724
+576,623168,2025-04-10,steal_2b,on_1b,657526,Bo Bichette strikes out swinging. Tyler Heineman steals (1) 2nd base.,single,657531
+577,592663,2025-04-09,steal_2b,on_1b,658686,Bryson Stott strikes out swinging. J.T. Realmuto steals (3) 2nd base.,walk,658692
+578,691907,2025-04-09,caught_steal_2b,on_1b,660131,"Cardinals challenged (tag play), call on the field was overturned: Jack Suwinski strikes out swinging and Tsung-Che Cheng caught stealing 2nd, catcher Pedro Pagés to shortstop Masyn Winn to catcher Pedro Pagés.",field_error,660137
+579,664040,2025-04-08,caught_steal_2b,on_1b,663197,"Junior Caminero strikes out swinging and Brandon Lowe caught stealing 2nd, catcher Travis d'Arnaud to second baseman Kyren Paris to catcher Travis d'Arnaud.",single,663204
+580,691594,2025-04-08,caught_steal_2b,on_1b,664068,"Xavier Edwards called out on strikes and Javier Sanoja caught stealing 2nd, catcher Hayden Senger to shortstop Francisco Lindor to catcher Hayden Senger.",single,664077
+581,621020,2025-04-08,steal_2b,on_1b,665268,"Rangers challenged (tag play), call on the field was upheld: Nico Hoerner called out on strikes. Dansby Swanson to 2nd. Jon Berti steals (5) 3rd base. Dansby Swanson steals (2) 2nd base.",single,665274
+582,542932,2025-04-08,steal_3b,on_2b,665268,"Rangers challenged (tag play), call on the field was upheld: Nico Hoerner called out on strikes. Dansby Swanson to 2nd. Jon Berti steals (5) 3rd base. Dansby Swanson steals (2) 2nd base.",fielders_choice,665276
+583,665161,2025-04-08,steal_2b,on_1b,666090,Brendan Rodgers strikes out swinging. Jeremy Peña steals (3) 2nd base.,single,666098
+584,694362,2025-04-08,steal_2b,on_1b,666298,Gavin Lux called out on strikes. Blake Dunn steals (1) 2nd base.,single,666308
+585,687952,2025-04-08,caught_steal_2b,on_1b,666349,"Christian Encarnacion-Strand caught stealing 2nd base, catcher Sam Huff to shortstop Willy Adames.",single,666353
+586,642350,2025-04-07,steal_2b,on_1b,668121,Jesse Winker strikes out swinging. Jose Siri steals (2) 2nd base.,field_out,670675
+587,643396,2025-04-07,caught_steal_2b,on_1b,668541,"Isiah Kiner-Falefa caught stealing 2nd base, catcher Yohel Pozo to shortstop Masyn Winn.",force_out,668543
+588,666149,2025-04-07,steal_2b,on_1b,669880,LaMonte Wade Jr. strikes out swinging. Tyler Fitzgerald steals (3) 2nd base.,single,669885
+589,663538,2025-04-06,steal_3b,on_2b,671863,Carson Kelly walks. Nico Hoerner to 3rd. Nico Hoerner steals (6) 3rd base. Nico Hoerner to 3rd.,single,671876
+590,682641,2025-04-06,steal_2b,on_1b,672945,Patrick Bailey strikes out swinging. Luis Matos steals (1) 2nd base.,single,672949
+591,657041,2025-04-06,steal_2b,on_1b,673249,"Angels challenged (tag play), call on the field was upheld: Kyle Manzardo called out on strikes. Lane Thomas steals (1) 2nd base.",single,673256
+592,678662,2025-04-06,steal_2b,on_1b,673668,Ryan McMahon strikes out swinging. Ezequiel Tovar steals (1) 2nd base.,single,673674
+593,682829,2025-04-06,caught_steal_2b,on_1b,674222,"Elly De La Cruz caught stealing 2nd base, catcher Eric Haase to shortstop Joey Ortiz.",single,674223
+594,677950,2025-04-05,caught_steal_2b,on_1b,674895,"Diamondbacks challenged (tag play), call on the field was upheld: Alek Thomas caught stealing 2nd base, catcher Riley Adams to shortstop CJ Abrams.",single,674898
+595,686611,2025-04-05,caught_steal_2b,on_1b,674933,"Dylan Crews caught stealing 2nd base, catcher Gabriel Moreno to second baseman Tim Tawa.",force_out,674939
+596,671739,2025-04-05,caught_steal_2b,on_1b,675338,"Michael Harris II caught stealing 2nd base, catcher Liam Hicks to shortstop Xavier Edwards.",force_out,675340
+597,700250,2025-04-04,caught_steal_2b,on_1b,679801,"Umpire reviewed (tag play), call on the field was overturned: Aaron Judge strikes out swinging and Ben Rice caught stealing 2nd, catcher Joey Bart to second baseman Jared Triolo to catcher Joey Bart.",walk,679808
+598,592450,2025-04-04,steal_2b,on_1b,680117,Paul Goldschmidt called out on strikes. Aaron Judge to 2nd. Ben Rice steals (2) 3rd base. Aaron Judge steals (2) 2nd base.,walk,680126
+599,700250,2025-04-04,steal_3b,on_2b,680117,Paul Goldschmidt called out on strikes. Aaron Judge to 2nd. Ben Rice steals (2) 3rd base. Aaron Judge steals (2) 2nd base.,single,680131
+600,621035,2025-04-04,caught_steal_2b,on_1b,680415,"Phillies challenged (tag play), call on the field was overturned: Max Muncy strikes out swinging and Chris Taylor caught stealing 2nd, catcher J.T. Realmuto to shortstop Trea Turner to catcher J.T. Realmuto.",field_out,691916
+601,660271,2025-04-04,caught_steal_2b,on_1b,680441,"Shohei Ohtani caught stealing 2nd base, catcher J.T. Realmuto to second baseman Bryson Stott.",single,680444
+602,677587,2025-04-04,caught_steal_2b,on_1b,682605,"Brayan Rocchio caught stealing 2nd base, catcher Logan O'Hoppe to shortstop Kevin Newman.",single,682609
+603,669016,2025-04-03,caught_steal_2b,on_1b,683972,"Brandon Marsh caught stealing 2nd base, catcher Jacob Stallings to shortstop Ezequiel Tovar to first baseman Michael Toglia.",walk,683974
+604,607208,2025-04-03,steal_2b,on_1b,684126,Bryce Harper strikes out swinging. Trea Turner steals (1) 2nd base.,single,684130
+605,678662,2025-04-03,caught_steal_2b,on_1b,684141,"Phillies challenged (tag play), call on the field was overturned: Ryan McMahon strikes out swinging and Ezequiel Tovar caught stealing 2nd, catcher J.T. Realmuto to shortstop Trea Turner to catcher J.T. Realmuto.",field_error,684147
+606,663898,2025-04-03,caught_steal_2b,on_1b,684626,"Cam Smith strikes out swinging and Brendan Rodgers caught stealing 2nd, catcher Ryan Jeffers to second baseman Edouard Julien to catcher Ryan Jeffers.",single,684632
+607,650489,2025-04-03,steal_2b,on_1b,684682,Ryan Jeffers strikes out swinging. Willi Castro steals (1) 2nd base.,single,684691
+608,606466,2025-04-02,caught_steal_2b,on_1b,684961,"Ketel Marte caught stealing 2nd base, catcher Austin Wells to shortstop Anthony Volpe.",single,684962
+609,665052,2025-04-02,caught_steal_2b,on_1b,685647,"Griffin Conine caught stealing 2nd base, catcher Luis Torrens to second baseman Brett Baty.",fielders_choice_out,685649
+610,668804,2025-04-02,caught_steal_2b,on_1b,686180,"Bryan Reynolds caught stealing 2nd base, catcher Ben Rortvedt to second baseman Curtis Mead.",force_out,686190
+611,696285,2025-04-02,caught_steal_2b,on_1b,686452,"Jacob Young caught stealing 2nd base, catcher Tyler Heineman to second baseman Andrés Giménez.",field_out,690782
+612,663538,2025-04-02,steal_3b,on_2b,688738,Matt Shaw walks. Nico Hoerner to 3rd. Nico Hoerner steals (3) 3rd base. Nico Hoerner to 3rd.,walk,688746
+613,667472,2025-04-01,caught_steal_2b,on_1b,689443,"Dane Myers caught stealing 2nd base, catcher Luis Torrens to second baseman Luisangel Acuña.",field_error,689444
+614,687363,2025-04-01,steal_2b,on_1b,689782,Masyn Winn strikes out swinging. Victor Scott II to 2nd. Jordan Walker steals (1) 3rd base. Victor Scott II steals (4) 2nd base.,single,689788
+615,691023,2025-04-01,steal_3b,on_2b,689782,Masyn Winn strikes out swinging. Victor Scott II to 2nd. Jordan Walker steals (1) 3rd base. Victor Scott II steals (4) 2nd base.,single,689792
+616,682928,2025-04-01,steal_2b,on_1b,690831,James Wood strikes out swinging. CJ Abrams steals (2) 2nd base.,single,690837
+617,665155,2025-04-01,caught_steal_2b,on_1b,691284,"Luis Robert Jr. strikes out swinging and Nick Maton caught stealing 2nd, catcher Ryan Jeffers to second baseman Willi Castro to catcher Ryan Jeffers.",walk,691293
+618,592885,2025-04-01,steal_3b,on_2b,691765,William Contreras walks. Christian Yelich to 3rd. Christian Yelich steals (2) 3rd base. Christian Yelich to 3rd.,force_out,691771
+619,593428,2025-04-01,steal_2b,on_1b,692495,Jackson Merrill strikes out swinging. Manny Machado scores. Xander Bogaerts steals (3) 2nd base. Manny Machado scores. Throwing error by catcher Bo Naylor.,fielders_choice,692499
+620,671218,2025-03-31,steal_2b,on_1b,694727,Patrick Bailey strikes out swinging. Heliot Ramos steals (1) 2nd base.,force_out,694733
+621,676609,2025-03-30,caught_steal_3b,on_2b,697846,"Rays challenged (tag play), call on the field was upheld: José Caballero caught stealing 3rd base, catcher Jacob Stallings to third baseman Ryan McMahon.",walk,697856
+622,682848,2025-03-30,caught_steal_2b,on_1b,698687,"Umpire reviewed (tag play), call on the field was overturned: Endy Rodríguez caught stealing 2nd base, catcher Nick Fortes to second baseman Otto Lopez.",walk,698696
+623,664238,2025-03-30,caught_steal_2b,on_1b,700104,"Dylan Moore caught stealing 2nd base, catcher Jhonny Pereda to second baseman Max Schuemann.",single,700106
+624,663697,2025-03-30,caught_steal_2b,on_1b,700611,"Guardians challenged (tag play), call on the field was overturned: Bobby Witt Jr. strikes out swinging and Jonathan India caught stealing 2nd, catcher Bo Naylor to second baseman Daniel Schneemann to catcher Bo Naylor.",walk,700617
+625,808982,2025-03-29,steal_2b,on_1b,700810,Matt Chapman strikes out swinging. Jung Hoo Lee steals (1) 2nd base.,single,700814
+626,660271,2025-03-29,steal_2b,on_1b,702882,Teoscar Hernández strikes out swinging. Shohei Ohtani steals (1) 2nd base.,walk,702886
+627,514888,2025-03-29,caught_steal_2b,on_1b,703905,"Isaac Paredes strikes out swinging and Jose Altuve caught stealing 2nd, catcher Luis Torrens to second baseman Brett Baty to catcher Luis Torrens.",single,703914
+628,608070,2025-03-29,caught_steal_2b,on_1b,704124,"José Ramírez caught stealing 2nd base, catcher Salvador Perez to shortstop Bobby Witt Jr.",walk,704132
+629,677587,2025-03-29,caught_steal_2b,on_1b,704151,"Brayan Rocchio caught stealing 2nd base, catcher Salvador Perez to shortstop Bobby Witt Jr.",force_out,704154
+630,701538,2025-03-29,caught_steal_2b,on_1b,704990,"Jake Cronenworth strikes out swinging and Jackson Merrill caught stealing 2nd, catcher Drake Baldwin to shortstop Orlando Arcia to catcher Drake Baldwin.",single,704997
+631,678662,2025-03-28,caught_steal_3b,on_2b,705230,"Ryan McMahon walks. Ezequiel Tovar caught stealing 3rd base, catcher Danny Jansen to third baseman Junior Caminero.",double,705235
+632,666182,2025-03-28,caught_steal_2b,on_1b,705634,"Vladimir Guerrero Jr. strikes out swinging and Bo Bichette caught stealing 2nd, catcher Adley Rutschman to second baseman Jackson Holliday to catcher Adley Rutschman.",single,705640
+633,663757,2025-03-27,caught_steal_2b,on_1b,708830,"Yankees challenged (tag play), call on the field was upheld: Trent Grisham caught stealing 2nd base, catcher William Contreras to shortstop Joey Ortiz.",single,708834
+634,665487,2025-03-27,steal_3b,on_2b,711856,Manny Machado walks. Fernando Tatis Jr. to 3rd. Fernando Tatis Jr. steals (1) 3rd base. Fernando Tatis Jr. to 3rd.,single,711869
