@@ -41,6 +41,7 @@ The full calculation is in [`reference/main.py`](reference/main.py).
 ├── experiments/        Earlier and alternative approaches
 ├── debug/              Debugging code for Statcast event tracing
 ├── outputs/tables/     Generated result tables
+├── LICENSE
 ├── pyproject.toml
 ├── requirements-windows.txt
 └── requirements-windows.lock.txt
@@ -116,3 +117,8 @@ The five largest gains in `outputs/tables/final.csv` (2025 season):
 
 The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested
 parties may contact Retrosheet at [www.retrosheet.org](https://www.retrosheet.org/).
+
+## License
+
+The code in this repository is released under the [MIT License](LICENSE). Third-party data remains subject
+to the terms of its original sources listed above.
